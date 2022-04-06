@@ -1,0 +1,11 @@
+---
+title: 反转链表
+no: 24
+type: 剑指 Offer
+tags: [Recursion, Linked List]
+url: https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
+---
+
+# 剑指 Offer 24. 反转链表
+
+[LeetcodeCN](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
