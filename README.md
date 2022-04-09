@@ -3,8 +3,8 @@ My LeetCode code collection
 
 ### TODO
 
-- [ ] Format README.
-- [ ] Grab problemset from LeetCode automatically.
-- [ ] Tag problems.
+- [x] Format README.
+- [x] Grab problemset from LeetCode automatically.
+- [x] Tag problems.
 - [ ] Classify problems and build a roadmap.
 - [ ] Extension for vscode. 
