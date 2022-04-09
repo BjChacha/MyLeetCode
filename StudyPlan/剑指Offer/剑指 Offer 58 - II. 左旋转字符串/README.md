@@ -1,14 +1,14 @@
 ---
 title: 左旋转字符串
-no: 58
-type: 剑指 Offer
+no: 剑指 Offer 58 - II
+difficulty: Easy
 tags: [Math, Two Pointers, String]
-url: https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+url: https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 ---
 
 # 剑指 Offer 58 - II. 左旋转字符串
 
-[LeetcodeCN](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+[Leetcode](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
 ## 方法1. 字符串拼接（略）
 
