@@ -1,7 +1,6 @@
 import difflib
 import requests
 import os
-from bs4 import BeautifulSoup as bs
 
 TEMPLATE = '''---
 title: {title}
@@ -170,8 +169,8 @@ DIR_PROBLEM = "Problems"
 DIR_LCOF = "StudyPlan/剑指Offer"
 
 DIRS = {
-    0: DIR_PROBLEM,
-    1: DIR_LCOF
+    1: DIR_PROBLEM,
+    2: DIR_LCOF
 }
 
 URL_GRAPHQL_LEETCODE = 'https://leetcode.com/graphql/'
@@ -180,9 +179,9 @@ URL_GRAPHQL_LEETCODECN = 'https://leetcode-cn.com/graphql/'
 def get_problem_info(url, flag):
     url_leetcode_problem = url
     items = url_leetcode_problem.strip().strip('/').split('/')
-    problem_name = items[-1]
+    problem_name = items[4]
 
-    url_leetcode_graphql = URL_GRAPHQL_LEETCODE if flag == 0 else URL_GRAPHQL_LEETCODECN
+    url_leetcode_graphql = URL_GRAPHQL_LEETCODE if flag == 1 else URL_GRAPHQL_LEETCODECN
     
     header = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29',
@@ -192,7 +191,7 @@ def get_problem_info(url, flag):
         "variables": {
             "titleSlug": f"{problem_name}"
         },
-        "query": QUERY_PROBLEM if flag == 0 else QUERY_PROBLEM_CN,
+        "query": QUERY_PROBLEM if flag == 1 else QUERY_PROBLEM_CN,
     }
 
     my_request = requests.post(url_leetcode_graphql, headers=header, json=data)
@@ -203,7 +202,7 @@ def get_problem_info(url, flag):
 
 def build_template(data, url, flag):
     problem_title = data['data']['question']['title']
-    if flag == 1:
+    if flag == 2:
         problem_title = problem_title.split()[0]
     problem_no = data['data']['question']['questionFrontendId']
     problem_difficulty = data['data']['question']['difficulty']
@@ -233,11 +232,11 @@ def build_template(data, url, flag):
 def main():
     while True:
         try:
-            flag = input("Enter problem type:\n\t[q]: Exit\n\t[0]: LeetCode Problem\n\t[1]: LeetCode-CN 剑指 Offer\n") or '0'
+            flag = input("Enter problem type:\n\t[q]: Exit\n\t[1]: LeetCode Problem\n\t[2]: LeetCode-CN 剑指 Offer\n") or '0'
             if flag == 'q':
                 break
             flag = int(flag)
-            if flag not in [0, 1]:
+            if flag not in [1, 2]:
                 raise ValueError
 
             url = input("Enter LeetCode problem url: ")
