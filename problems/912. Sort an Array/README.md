@@ -1,6 +1,7 @@
 ---
 title: Sort an Array
 no: 912
+difficulty: Medium
 tags: [Array, Divide and Conquer, Sorting, Heap( priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort]
 url: https://leetcode.com/problems/sort-an-array/
 ---

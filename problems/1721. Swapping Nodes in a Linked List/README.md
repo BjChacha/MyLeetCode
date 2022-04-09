@@ -1,6 +1,7 @@
 ---
 title: Swapping Nodes in a Linked List
 no: 1721
+difficulty: Medium
 tags: [Linked List, Two Pointers]
 url: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 ---
