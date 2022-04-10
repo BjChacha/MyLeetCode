@@ -3,7 +3,7 @@ My LeetCode code collection
 
 ## Problems Integration
 
-- [by tags](https://github.com/BjChacha/MyLeetCode/blob/main/Summary_by_tags.md.md)
+- [by tags](https://github.com/BjChacha/MyLeetCode/blob/main/Summary_by_tags.md)
 
 ## TODO
 
