@@ -19,71 +19,17 @@ url: {url}
 QUERY_PROBLEM = '''
 query questionData($titleSlug: String!) {
     question(titleSlug: $titleSlug) {
-        questionId
         questionFrontendId
-        boundTopicId
         title
-        titleSlug
-        content
-        translatedTitle
-        translatedContent
-        isPaidOnly
         difficulty
-        likes
-        dislikes
-        isLiked
-        similarQuestions
-        exampleTestcases
         categoryTitle
-        contributors {
-            username
-            profileUrl
-            avatarUrl
-            __typename
-        }
         topicTags {
             name
             slug
             translatedName
             __typename
         }
-        companyTagStats
-        codeSnippets {
-            lang
-            langSlug
-            code
-            __typename
-        }
         stats
-        hints
-        solution {
-            id
-            canSeeDetail
-            paidOnly
-            hasVideoSolution
-            paidOnlyVideo
-            __typename
-        }
-        status
-        sampleTestCase
-        metaData
-        judgerAvailable
-        judgeType
-        mysqlSchemas
-        enableRunCode
-        enableTestMode
-        enableDebugger
-        envInfo
-        libraryUrl
-        adminUrl
-        challengeQuestion {
-            id
-            date
-            incompleteChallengeCount
-            streakCount
-            type
-            __typename
-        }
         __typename
     }
 }'''
@@ -91,75 +37,16 @@ query questionData($titleSlug: String!) {
 QUERY_PROBLEM_CN = '''
 query questionData($titleSlug: String!) {
     question(titleSlug: $titleSlug) {
-    questionId
     questionFrontendId
-    categoryTitle
-    boundTopicId
     title
-    titleSlug
-    content
-    translatedTitle
-    translatedContent
-    isPaidOnly
     difficulty
-    likes
-    dislikes
-    isLiked
-    similarQuestions
-    contributors {
-        username
-        profileUrl
-        avatarUrl
-        __typename
-    }
-    langToValidPlayground
     topicTags {
         name
         slug
         translatedName
         __typename
     }
-    companyTagStats
-    codeSnippets {
-        lang
-        langSlug
-        code
-        __typename
-    }
     stats
-    hints
-    solution {
-        id
-        canSeeDetail
-        __typename
-    }
-    status
-    sampleTestCase
-    metaData
-    judgerAvailable
-    judgeType
-    mysqlSchemas
-    enableRunCode
-    envInfo
-    book {
-        id
-        bookName
-        pressName
-        source
-        shortDescription
-        fullDescription
-        bookImgUrl
-        pressImgUrl
-        productUrl
-        __typename
-    }
-    isSubscribed
-    isDailyQuestion
-    dailyRecordStatus
-    editorType
-    ugcQuestionId
-    style
-    exampleTestcases
     __typename
     }
 }
@@ -177,8 +64,6 @@ URL_GRAPHQL_LEETCODE = 'https://leetcode.com/graphql/'
 URL_GRAPHQL_LEETCODECN = 'https://leetcode-cn.com/graphql/'
 
 def get_problem_info(url, flag):
-    if url.endswith('submissions/'):
-        url = url[-12:]
     url_leetcode_problem = url
     items = url_leetcode_problem.strip().strip('/').split('/')
     problem_name = items[4]
@@ -230,6 +115,10 @@ def build_template(data, url, flag):
         with open(file_name, 'w', encoding='utf-8') as f:
             f.writelines(content)
 
+def url_preprocesser(url):
+    if url.endswith('submissions/'):
+        url = url[:-12]
+    return url
 
 def main():
     while True:
@@ -242,6 +131,7 @@ def main():
                 raise ValueError
 
             url = input("Enter LeetCode problem url: ")
+            url = url_preprocesser(url)
             data = get_problem_info(url, flag)
             build_template(data, url, flag)
 
