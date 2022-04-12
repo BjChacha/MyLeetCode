@@ -27,7 +27,6 @@ def main():
         content += f"## {key}\n"
         for v in values:
             url = f'https://github.com/BjChacha/MyLeetCode/tree/main/{indexing[v]["dir"].replace(" ", "%20")}'
-            print(url)
             content += f"- [{indexing[v]['title']}]({url})\n"
 
     # print(content)
