@@ -2,7 +2,7 @@ import difflib
 import requests
 import os
 
-TEMPLATE = '''---
+FRONT_MATTER_TEMPLATE = '''---
 title: {title}
 no: {no}
 difficulty: {difficulty}
@@ -219,7 +219,7 @@ def build_template(data, url, flag):
     if os.path.isfile(file_name):
         print(f'File {file_name} is existed.')
     else:
-        content = TEMPLATE.format(
+        content = FRONT_MATTER_TEMPLATE.format(
             title=problem_title,
             no=problem_no,
             difficulty=problem_difficulty,
