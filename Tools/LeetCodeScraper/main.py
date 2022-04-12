@@ -177,6 +177,8 @@ URL_GRAPHQL_LEETCODE = 'https://leetcode.com/graphql/'
 URL_GRAPHQL_LEETCODECN = 'https://leetcode-cn.com/graphql/'
 
 def get_problem_info(url, flag):
+    if url.endswith('submissions/'):
+        url = url[-12:]
     url_leetcode_problem = url
     items = url_leetcode_problem.strip().strip('/').split('/')
     problem_name = items[4]

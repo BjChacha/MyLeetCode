@@ -3,11 +3,11 @@ title: Balanced Binary Tree
 no: 110
 difficulty: Easy
 tags: [Tree, Depth-First Search, Binary Tree]
-url: https://leetcode.com/problems/balanced-binary-tree/submissions/
+url: https://leetcode.com/problems/balanced-binary-tree/
 ---
 
 # 110. Balanced Binary Tree
 
-[Leetcode](https://leetcode.com/problems/balanced-binary-tree/submissions/)
+[Leetcode](https://leetcode.com/problems/balanced-binary-tree/)
 
 ### 方法1. BFS
