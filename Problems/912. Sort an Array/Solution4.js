@@ -1,22 +1,20 @@
-// Merge Sort (in-place)
+// Merge Sort (out-place)
 var sortArray = function(nums) {
-
+    
     const merge = function(left, mid, right) {
         let i = left, j = mid + 1;
+        let sortedArray = [];
         while (i <= mid && j <= right) {
             if (nums[i] <= nums[j]) {
-                ++i;
+                sortedArray.push(nums[i++]);
             } else {
-                let tmp = nums[j];
-                for (let k = j; k > i; --k) {
-                    nums[k] = nums[k-1];
-                }
-                nums[i] = tmp;
-                i ++;
-                j ++;
-                mid ++;
+                sortedArray.push(nums[j++]);
             }
         }
+        while (i <= mid) sortedArray.push(nums[i++]);
+        while (j <= right) sortedArray.push(nums[j++]);
+        
+        nums.splice(left, (right - left + 1), ...sortedArray);
     }
     
     const mergeSort = function(left, right) {

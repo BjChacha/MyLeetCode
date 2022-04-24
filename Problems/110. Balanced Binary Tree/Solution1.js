@@ -1,14 +1,15 @@
-// bfs
+// dfs
 var isBalanced = function(root) {
-    
-    const bfs = function(node) {
-        if (!node) return [true, 0];
-        
-        let [leftBalanced, leftDepth] = bfs(node.left);
-        let [rightBalanced, rightDepth] = bfs(node.right);
-        
-        return [leftBalanced && rightBalanced && Math.abs(leftDepth - rightDepth) <= 1, Math.max(leftDepth, rightDepth) + 1];
+
+    const dfs = function(node) {
+        if (!node) return 0;
+
+        let leftDepth = dfs(node.left);
+        if (leftDepth < 0) return -1;
+        let rightDepth = dfs(node.right);
+        if (rightDepth < 0) return -1;
+        return Math.abs(leftDepth - rightDepth) <= 1 ? Math.max(leftDepth, rightDepth) + 1 : -1;
     }
-    
-    return bfs(root)[0];
+
+    return dfs(root) === -1 ? false : true;
 };

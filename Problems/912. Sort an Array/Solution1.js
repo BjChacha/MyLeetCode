@@ -1,25 +1,31 @@
-// Quici Sort (two-pointers)
+// quicksort (single-side)
 var sortArray = function(nums) {
-    const quickSort = function(left, right) {
+    
+    const partition = function(left, right) {
         if (left >= right) return;
         
-        // let pivot = left;
-        let pivot = Math.floor(Math.random() * (right - left + 1)) + left;
-        // let pivot = left + right >> 1;
-        [nums[left], nums[pivot]] = [nums[pivot], nums[left]];
+        const pivot = Math.floor(Math.random() * (right - left + 1) + left);
+        swap(left, pivot);
         
-        let l = left, r = right + 1;
-        while (l < r) {
-            do {++l;} while (l <= right && nums[l] < nums[left]);
-            do {--r;} while (nums[r] > nums[left]);
-            if (l >= r) break;
-            [nums[l], nums[r]] = [nums[r], nums[l]];
+        let mid = left;
+        for (let i = left + 1; i <= right; ++i) {
+            if (nums[i] < nums[left]) {
+                swap(i, ++mid);
+            }
         }
-        [nums[r], nums[left]] = [nums[left], nums[r]];
+        swap(left, mid);
         
-        quickSort(left, r - 1);
-        quickSort(r + 1, right);
+        partition(left, mid - 1);
+        partition(mid + 1, right);
+        
     }
-    quickSort(0, nums.length - 1);
+    
+    const swap = function(i, j) {
+        let tmp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = tmp;
+    }
+    
+    partition(0, nums.length - 1);
     return nums;
 };
