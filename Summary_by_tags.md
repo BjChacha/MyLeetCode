@@ -1,22 +1,99 @@
 # Summary
 ## Array
+- [Two Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1.%20Two%20Sum)
 - [Last Stone Weight](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1046.%20Last%20Stone%20Weight)
 - [Container With Most Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/11.%20Container%20With%20Most%20Water)
 - [Shift 2D Grid](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1260.%20Shift%202D%20Grid)
+- [3Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/15.%203Sum)
+- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
+- [Check if All the Integers in a Range Are Covered](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
+- [House Robber](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/198.%20House%20Robber)
+- [Maximum Points in an Archery Competition](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
+- [Peeking Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/284.%20Peeking%20Iterator)
 - [Game of Life](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/289.%20Game%20of%20Life)
 - [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
 - [Next Permutation](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/31.%20Next%20Permutation)
 - [Coin Change](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/322.%20Coin%20Change)
+- [Search in Rotated Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/33.%20Search%20in%20Rotated%20Sorted%20Array)
 - [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
+- [First Missing Positive](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/41.%20First%20Missing%20Positive)
+- [Maximum Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/53.%20Maximum%20Subarray)
+- [Spiral Matrix II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/59.%20Spiral%20Matrix%20II)
+- [Minimum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/64.%20Minimum%20Path%20Sum)
 - [Baseball Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/682.%20Baseball%20Game)
+- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
+- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
 - [Number of Lines To Write String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/806.%20Number%20of%20Lines%20To%20Write%20String)
 - [Merge Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/88.%20Merge%20Sorted%20Array)
 - [Sort an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/912.%20Sort%20an%20Array)
 - [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
+## Hash Table
+- [Two Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1.%20Two%20Sum)
+- [Design Underground System](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1396.%20Design%20Underground%20System)
+- [Check if All the Integers in a Range Are Covered](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
+- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+- [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
+- [First Missing Positive](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/41.%20First%20Missing%20Positive)
+- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
+- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
+- [Most Common Word](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/819.%20Most%20Common%20Word)
+- [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
+## Tree
+- [Binary Tree Zigzag Level Order Traversal](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
+- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
+- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
+- [Binary Tree Right Side View](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/199.%20Binary%20Tree%20Right%20Side%20View)
+- [Kth Smallest Element in a BST](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
+- [Convert BST to Greater Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/538.%20Convert%20BST%20to%20Greater%20Tree)
+- [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
+- [Trim a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/669.%20Trim%20a%20Binary%20Search%20Tree)
+- [Search in a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/700.%20Search%20in%20a%20Binary%20Search%20Tree)
+- [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
+- [Increasing Order Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/897.%20Increasing%20Order%20Search%20Tree)
+- [Recover Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/99.%20Recover%20Binary%20Search%20Tree)
+## Breadth-First Search
+- [Binary Tree Zigzag Level Order Traversal](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
+- [Binary Tree Right Side View](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/199.%20Binary%20Tree%20Right%20Side%20View)
+- [Coin Change](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/322.%20Coin%20Change)
+## Binary Tree
+- [Binary Tree Zigzag Level Order Traversal](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
+- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
+- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
+- [Binary Tree Right Side View](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/199.%20Binary%20Tree%20Right%20Side%20View)
+- [Kth Smallest Element in a BST](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
+- [Convert BST to Greater Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/538.%20Convert%20BST%20to%20Greater%20Tree)
+- [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
+- [Trim a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/669.%20Trim%20a%20Binary%20Search%20Tree)
+- [Search in a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/700.%20Search%20in%20a%20Binary%20Search%20Tree)
+- [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
+- [Increasing Order Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/897.%20Increasing%20Order%20Search%20Tree)
+- [Recover Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/99.%20Recover%20Binary%20Search%20Tree)
 ## Heap(Priority Queue)
 - [Last Stone Weight](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1046.%20Last%20Stone%20Weight)
+## String
+- [Letter Tile Possibilities](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1079.%20Letter%20Tile%20Possibilities)
+- [Design Underground System](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1396.%20Design%20Underground%20System)
+- [Valid Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/20.%20Valid%20Parentheses)
+- [Generate Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/22.%20Generate%20Parentheses)
+- [Implement strStr()](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/28.%20Implement%20strStr())
+- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+- [Longest Absolute File Path](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/388.%20Longest%20Absolute%20File%20Path)
+- [Add Strings](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/415.%20Add%20Strings)
+- [Longest Palindromic Substring](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/5.%20Longest%20Palindromic%20Substring)
+- [Rotate String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/796.%20Rotate%20String)
+- [Number of Lines To Write String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/806.%20Number%20of%20Lines%20To%20Write%20String)
+- [Most Common Word](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/819.%20Most%20Common%20Word)
+## Backtracking
+- [Letter Tile Possibilities](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1079.%20Letter%20Tile%20Possibilities)
+- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- [Generate Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/22.%20Generate%20Parentheses)
 ## Two Pointers
 - [Container With Most Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/11.%20Container%20With%20Most%20Water)
+- [3Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/15.%203Sum)
 - [Swapping Nodes in a Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List)
 - [Implement strStr()](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/28.%20Implement%20strStr())
 - [Next Permutation](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/31.%20Next%20Permutation)
@@ -24,63 +101,107 @@
 - [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
 ## Greedy
 - [Container With Most Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/11.%20Container%20With%20Most%20Water)
-## Tree
-- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
-- [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
-- [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
 ## Depth-First Search
 - [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
+- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+- [Binary Tree Right Side View](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/199.%20Binary%20Tree%20Right%20Side%20View)
+- [Kth Smallest Element in a BST](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
+- [Longest Absolute File Path](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/388.%20Longest%20Absolute%20File%20Path)
+- [Convert BST to Greater Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/538.%20Convert%20BST%20to%20Greater%20Tree)
 - [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
-## Binary Tree
-- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
-- [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
-- [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
+- [Trim a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/669.%20Trim%20a%20Binary%20Search%20Tree)
+- [Increasing Order Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/897.%20Increasing%20Order%20Search%20Tree)
+- [Recover Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/99.%20Recover%20Binary%20Search%20Tree)
+## Dynamic Programming
+- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+- [House Robber](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/198.%20House%20Robber)
+- [Generate Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/22.%20Generate%20Parentheses)
+- [Coin Change](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/322.%20Coin%20Change)
+- [Longest Palindromic Substring](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/5.%20Longest%20Palindromic%20Substring)
+- [Maximum Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/53.%20Maximum%20Subarray)
+- [Minimum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/64.%20Minimum%20Path%20Sum)
+- [Super Egg Drop](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/887.%20Super%20Egg%20Drop)
 ## Matrix
 - [Shift 2D Grid](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1260.%20Shift%202D%20Grid)
 - [Game of Life](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/289.%20Game%20of%20Life)
+- [Spiral Matrix II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/59.%20Spiral%20Matrix%20II)
+- [Minimum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/64.%20Minimum%20Path%20Sum)
 ## Simulation
 - [Shift 2D Grid](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1260.%20Shift%202D%20Grid)
 - [Game of Life](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/289.%20Game%20of%20Life)
+- [Add Strings](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/415.%20Add%20Strings)
+- [Spiral Matrix II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/59.%20Spiral%20Matrix%20II)
 - [Baseball Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/682.%20Baseball%20Game)
-## Linked List
-- [Swapping Nodes in a Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List)
-- [Merge Two Sorted Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/21.%20Merge%20Two%20Sorted%20Lists)
-## Recursion
-- [Merge Two Sorted Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/21.%20Merge%20Two%20Sorted%20Lists)
-## String
-- [Implement strStr()](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/28.%20Implement%20strStr())
-- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
-- [Rotate String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/796.%20Rotate%20String)
-- [Number of Lines To Write String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/806.%20Number%20of%20Lines%20To%20Write%20String)
-## String Matching
-- [Implement strStr()](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/28.%20Implement%20strStr())
-- [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
-- [Rotate String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/796.%20Rotate%20String)
-## Hash Table
-- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
-- [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
-- [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
-## Sliding Window
-- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 ## Design
+- [Design Underground System](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1396.%20Design%20Underground%20System)
+- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
+- [Peeking Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/284.%20Peeking%20Iterator)
 - [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
 - [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
-## Binary Indexed Tree
-- [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
-## Segment Tree
-- [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
-## Dynamic Programming
-- [Coin Change](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/322.%20Coin%20Change)
-## Breadth-First Search
-- [Coin Change](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/322.%20Coin%20Change)
-## Divide and Conquer
-- [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
-- [Sort an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/912.%20Sort%20an%20Array)
+- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
+- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
 ## Sorting
+- [3Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/15.%203Sum)
 - [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
 - [Merge Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/88.%20Merge%20Sorted%20Array)
 - [Sort an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/912.%20Sort%20an%20Array)
 - [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
+## Union Find
+- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
+## Minimum Spanning Tree
+- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
+## Linked List
+- [Swapping Nodes in a Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List)
+- [Merge Two Sorted Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/21.%20Merge%20Two%20Sorted%20Lists)
+- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
+- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
+## Stack
+- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
+- [Valid Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/20.%20Valid%20Parentheses)
+- [Longest Absolute File Path](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/388.%20Longest%20Absolute%20File%20Path)
+- [Baseball Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/682.%20Baseball%20Game)
+- [Increasing Order Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/897.%20Increasing%20Order%20Search%20Tree)
+## Binary Search Tree
+- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
+- [Kth Smallest Element in a BST](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST)
+- [Convert BST to Greater Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/538.%20Convert%20BST%20to%20Greater%20Tree)
+- [Trim a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/669.%20Trim%20a%20Binary%20Search%20Tree)
+- [Search in a Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/700.%20Search%20in%20a%20Binary%20Search%20Tree)
+- [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
+- [Increasing Order Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/897.%20Increasing%20Order%20Search%20Tree)
+- [Recover Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/99.%20Recover%20Binary%20Search%20Tree)
+## Iterator
+- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
+- [Peeking Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/284.%20Peeking%20Iterator)
+## Prefix Sum
+- [Check if All the Integers in a Range Are Covered](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
+## Recursion
+- [Merge Two Sorted Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/21.%20Merge%20Two%20Sorted%20Lists)
+- [Maximum Points in an Archery Competition](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
+## Bit Manipulation
+- [Maximum Points in an Archery Competition](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
+## Enumeration
+- [Maximum Points in an Archery Competition](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
+## 
+- [Maximum Trailing Zeros in a Cornered Path](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/2245.%20Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path)
+## String Matching
+- [Implement strStr()](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/28.%20Implement%20strStr())
+- [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
+- [Rotate String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/796.%20Rotate%20String)
+## Sliding Window
+- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+## Binary Indexed Tree
+- [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
+## Segment Tree
+- [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
+## Binary Search
+- [Search in Rotated Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/33.%20Search%20in%20Rotated%20Sorted%20Array)
+- [Super Egg Drop](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/887.%20Super%20Egg%20Drop)
+## Divide and Conquer
+- [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
+- [Maximum Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/53.%20Maximum%20Subarray)
+- [Sort an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/912.%20Sort%20an%20Array)
 ## Heap (Priority Queue)
 - [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
 - [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
@@ -89,15 +210,18 @@
 - [Sort an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/912.%20Sort%20an%20Array)
 ## Counting
 - [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
+- [Most Common Word](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/819.%20Most%20Common%20Word)
 - [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
 ## Quickselect
 - [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
+## Math
+- [Add Strings](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/415.%20Add%20Strings)
+- [Reverse Integer](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/7.%20Reverse%20Integer)
+- [Super Egg Drop](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/887.%20Super%20Egg%20Drop)
 ## Hash Function
 - [Subtree of Another Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/572.%20Subtree%20of%20Another%20Tree)
-## Stack
-- [Baseball Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/682.%20Baseball%20Game)
-## Binary Search Tree
-- [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
+- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
+- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
 ## Data Stream
 - [Kth Largest Element in a Stream](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/703.%20Kth%20Largest%20Element%20in%20a%20Stream)
 ## Heap( priority Queue)
