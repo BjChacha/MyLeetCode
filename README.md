@@ -10,6 +10,8 @@ My LeetCode code collection
 - [x] Format README.
 - [x] Grab problemset from LeetCode automatically.
 - [x] Tag problems.
-- [x] Integrate problems.
+- [ ] Integrate problems.
+  - [ ] Title with problem no
+  - [ ] Progress
 - [ ] Build a roadmap.
 - [ ] Extension for vscode. 
