@@ -25,9 +25,14 @@ def main():
 
     for key, values in tagging.items():
         content += f"## {key}\n"
+        ordered = []
         for v in values:
             url = f'https://github.com/BjChacha/MyLeetCode/tree/main/{indexing[v]["dir"].replace(" ", "%20")}'
-            content += f"- \[{indexing[v]['no']}\]\[{indexing[v]['difficulty']}\][{indexing[v]['title']}]({url})\n"
+            line = f"- \[{indexing[v]['no']}\]\[{indexing[v]['difficulty']}\] \- [{indexing[v]['title']}]({url})\n"
+            ordered.append((int(indexing[v]['no']), line))
+        ordered.sort(key=lambda x: x[0])
+        content += ''.join([item[1] for item in ordered])
+
 
     # print(content)
     with open("Summary_by_tags.md", 'w', encoding='utf-8') as f:
