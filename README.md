@@ -11,7 +11,8 @@ My LeetCode code collection
 - [x] Grab problemset from LeetCode automatically.
 - [x] Tag problems.
 - [ ] Integrate problems.
-  - [ ] Title with problem no
-  - [ ] Progress
+  - [x] Title with problem no;
+  - [x] Sort by problem no;
+  - [ ] Progress;
 - [ ] Build a roadmap.
 - [ ] Extension for vscode. 
