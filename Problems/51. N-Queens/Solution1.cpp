@@ -1,4 +1,4 @@
-// dfs
+// backtracking
 class Solution {
 private:
     void dfs(vector<vector<int>>& mat, vector<vector<string>>& res, int i) {
