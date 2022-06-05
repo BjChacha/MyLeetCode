@@ -1,15 +1,16 @@
 // backtracking
 class Solution {
 private:
-    void dfs(vector<vector<int>>& mat, vector<vector<string>>& res, int i) {
+    int res;
+    void dfs(vector<vector<int>>& mat, int i) {
         if (i == mat.size()) {
-            res.push_back(mat2str(mat));
+            ++res;
         }
         else {
             for (int j = 0; j < mat[i].size(); ++j) {
                 if (isValid(mat, i, j)) {
                     mat[i][j] = 1;
-                    dfs(mat, res, i + 1);
+                    dfs(mat, i + 1);
                     mat[i][j] = 0;
                 }
             }
@@ -30,23 +31,12 @@ private:
         return true;
     }
     
-    vector<string> mat2str(vector<vector<int>> mat) {
-        vector<string> res;
-        for (int i = 0; i < mat.size(); ++i) {
-            string tmp = "";
-            for (int j = 0; j < mat[0].size(); ++j) {
-                tmp += mat[i][j] == 1 ? 'Q' : '.';
-            }
-            res.push_back(tmp);
-        }
-        return res;
-    }
     
 public:
-    vector<vector<string>> solveNQueens(int n) {
+    int totalNQueens(int n) {
+        res = 0;
         vector<vector<int>> mat(n, vector<int>(n, 0));
-        vector<vector<string>> res;
-        dfs(mat, res, 0);
+        dfs(mat, 0);
         return res;
     }
 };
