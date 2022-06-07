@@ -1,4 +1,3 @@
-import difflib
 import requests
 import os
 
@@ -34,24 +33,6 @@ query questionData($titleSlug: String!) {
     }
 }'''
 
-QUERY_PROBLEM_CN = '''
-query questionData($titleSlug: String!) {
-    question(titleSlug: $titleSlug) {
-    questionFrontendId
-    title
-    difficulty
-    topicTags {
-        name
-        slug
-        translatedName
-        __typename
-    }
-    stats
-    __typename
-    }
-}
-'''
-
 DIR_PROBLEM = "Problems"
 DIR_LCOF = "StudyPlan/剑指Offer"
 
@@ -68,7 +49,7 @@ def get_problem_info(url, flag):
     items = url_leetcode_problem.strip().strip('/').split('/')
     problem_name = items[4]
 
-    url_leetcode_graphql = URL_GRAPHQL_LEETCODE if flag == 1 else URL_GRAPHQL_LEETCODECN
+    url_leetcode_graphql = URL_GRAPHQL_LEETCODECN if '-cn' in url else URL_GRAPHQL_LEETCODE
     
     header = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29',
@@ -78,7 +59,7 @@ def get_problem_info(url, flag):
         "variables": {
             "titleSlug": f"{problem_name}"
         },
-        "query": QUERY_PROBLEM if flag == 1 else QUERY_PROBLEM_CN,
+        "query": QUERY_PROBLEM,
     }
 
     my_request = requests.post(url_leetcode_graphql, headers=header, json=data)
@@ -89,6 +70,7 @@ def get_problem_info(url, flag):
 
 def build_template(data, url, flag):
     problem_title = data['data']['question']['title']
+    problem_title = problem_title.replace('?', '')
     if flag == 2:
         problem_title = problem_title.split()[0]
     problem_no = data['data']['question']['questionFrontendId']
