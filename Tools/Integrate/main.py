@@ -2,15 +2,16 @@ import os
 from collections import defaultdict
 from utils import read_frontmatter, get_difficult_problems_number
 
-DIR_PROBLEM = 'Problems'
-
 def main():
+    dir_problem = 'Problems'
+    output_filename = "Summary.md"
+
     content = []
     tagging = defaultdict(list)
     difficulty_count = defaultdict(int)
 
     # read problems from Problems folder
-    problem_md_list = [f'{DIR_PROBLEM}/{d}' for d in os.listdir(DIR_PROBLEM) if os.path.isdir(f'{DIR_PROBLEM}/{d}')]
+    problem_md_list = [f'{dir_problem}/{d}' for d in os.listdir(dir_problem) if os.path.isdir(f'{dir_problem}/{d}')]
     for i, e in enumerate(problem_md_list):
         info = read_frontmatter(e + "/README.md")
         info['dir'] = e
@@ -54,7 +55,7 @@ def main():
     # print(content)
 
     # write md file
-    with open("Summary_by_tags.md", 'w', encoding='utf-8') as f:
+    with open(output_filename, 'w', encoding='utf-8') as f:
         f.write(content)
 
 if __name__ == '__main__':

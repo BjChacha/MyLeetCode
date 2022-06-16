@@ -1,9 +1,9 @@
 # MyLeetCode
 My LeetCode code collection
 
-## Problems Integration
+## Problems
 
-- [by tags](https://github.com/BjChacha/MyLeetCode/blob/main/Summary_by_tags.md)
+- [Summary](https://github.com/BjChacha/MyLeetCode/blob/main/Summary.md)
 
 ## TODO feat
 
