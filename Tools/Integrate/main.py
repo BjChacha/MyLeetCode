@@ -1,40 +1,59 @@
 import os
 from collections import defaultdict
-from read_frontmatter import read_frontmatter
+from utils import read_frontmatter, get_difficult_problems_number
 
 DIR_PROBLEM = 'Problems'
 
 def main():
     content = []
-    indexing = {}
     tagging = defaultdict(list)
+    difficulty_count = defaultdict(int)
 
+    # read problems from Problems folder
     problem_md_list = [f'{DIR_PROBLEM}/{d}' for d in os.listdir(DIR_PROBLEM) if os.path.isdir(f'{DIR_PROBLEM}/{d}')]
     for i, e in enumerate(problem_md_list):
         info = read_frontmatter(e + "/README.md")
         info['dir'] = e
+        info['github_url'] = f'https://github.com/BjChacha/MyLeetCode/tree/main/{info["dir"].replace(" ", "%20")}'
         content.append(info)
+        
+        difficulty_count[info['difficulty']] += 1
     
-    for item in content:
-        indexing[item['no']] = item
+    content.sort(key=lambda x: x['no'])
 
+    # tagging problems
+    for item in content:
         for tag in item['tags']:
-            tagging[tag].append(item['no'])
+            tagging[tag].append(item)
 
     content = '# Summary\n'
 
-    for key, values in tagging.items():
-        content += f"## {key}\n"
-        ordered = []
-        for v in values:
-            url = f'https://github.com/BjChacha/MyLeetCode/tree/main/{indexing[v]["dir"].replace(" ", "%20")}'
-            line = f"- \[{indexing[v]['no']}\]\[{indexing[v]['difficulty']}\] \- [{indexing[v]['title']}]({url})\n"
-            ordered.append((int(indexing[v]['no']), line))
-        ordered.sort(key=lambda x: x[0])
-        content += ''.join([item[1] for item in ordered])
+    # show progress
+    cnts = get_difficult_problems_number()
+    content += '## Progress\n'
+    lines = ""
+    left_space = 21
+    for i, d in enumerate(['Easy', 'Medium', 'Hard']):
+        line = f"- {d}: {difficulty_count[d]} / {cnts[i]}"
+        line += " " * (left_space - len(line)) + '\n'
+        line += "\#" * (difficulty_count[d] * 20 // cnts[i])
+        line += '\n'
+        lines += line
+    content += lines + '\n'
 
+    # show problems by tag
+    content += '## Problem\n'
+    for key, items in tagging.items():
+        content += f"### {key}\n"
+        lines = ""
+        for item in items:
+            line = f"- \[{item['no']}\]\[{item['difficulty']}\] \- [{item['title']}]({item['github_url']})\n"
+            lines += line
+        content += lines
 
     # print(content)
+
+    # write md file
     with open("Summary_by_tags.md", 'w', encoding='utf-8') as f:
         f.write(content)
 

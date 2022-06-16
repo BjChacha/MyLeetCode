@@ -13,6 +13,6 @@ My LeetCode code collection
 - [ ] Integrate problems.
   - [x] Title with problem no;
   - [x] Sort by problem no;
-  - [ ] Progress;
+  - [x] Progress;
 - [ ] Build a roadmap.
 - [ ] Extension for vscode. 
