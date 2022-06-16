@@ -10,7 +10,7 @@ My LeetCode code collection
 - [x] Format README.
 - [x] Grab problemset from LeetCode automatically.
 - [x] Tag problems.
-- [ ] Integrate problems.
+- [x] Integrate problems.
   - [x] Title with problem no;
   - [x] Sort by problem no;
   - [x] Progress;
