@@ -1,48 +1,9 @@
+import sys
+sys.path.append('Tools')
+sys.path.append('..')
+from var import *
 import requests
 import os
-
-FRONT_MATTER_TEMPLATE = '''---
-title: {title}
-no: {no}
-difficulty: {difficulty}
-tags: {tags}
-url: {url}
----
-
-# {no}. {title}
-
-[Leetcode]({url})
-
-'''
-
-QUERY_PROBLEM = '''
-query questionData($titleSlug: String!) {
-    question(titleSlug: $titleSlug) {
-        questionFrontendId
-        title
-        difficulty
-        categoryTitle
-        topicTags {
-            name
-            slug
-            translatedName
-            __typename
-        }
-        stats
-        __typename
-    }
-}'''
-
-DIR_PROBLEM = "Problems"
-DIR_LCOF = "StudyPlan/剑指Offer"
-
-DIRS = {
-    1: DIR_PROBLEM,
-    2: DIR_LCOF
-}
-
-URL_GRAPHQL_LEETCODE = 'https://leetcode.com/graphql/'
-URL_GRAPHQL_LEETCODECN = 'https://leetcode-cn.com/graphql/'
 
 def get_problem_info(url, flag):
     url_leetcode_problem = url
@@ -50,16 +11,15 @@ def get_problem_info(url, flag):
     problem_name = items[4]
 
     url_leetcode_graphql = URL_GRAPHQL_LEETCODECN if '-cn' in url else URL_GRAPHQL_LEETCODE
-    
-    header = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29',
-    }
+    header = HEADER
+    q = QUERY_PROBLEM_INFO
+
     data = {
         "operationName": "questionData",
         "variables": {
             "titleSlug": f"{problem_name}"
         },
-        "query": QUERY_PROBLEM,
+        "query": q,
     }
 
     my_request = requests.post(url_leetcode_graphql, headers=header, json=data)
