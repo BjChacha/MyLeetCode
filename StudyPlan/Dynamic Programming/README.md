@@ -1,11 +1,11 @@
 ### Dynamic Programming I
 
-- [ ] 509. Fibonacci Number
-- [ ] 1137. N- [ ]th Tribonacci Number
-- [ ] 70. Climbing Stairs
-- [ ] 746. Min Cost Climbing Stairs
-- [ ] 198. House Robber
-- [ ] 213. House Robber II
+- [x] 509. Fibonacci Number
+- [x] 1137. N-th Tribonacci Number
+- [x] 70. Climbing Stairs
+- [x] 746. Min Cost Climbing Stairs
+- [x] 198. House Robber
+- [x] 213. House Robber II
 - [ ] 740. Delete and Earn
 - [ ] 55. Jump Game
 - [ ] 45. Jump Game II
