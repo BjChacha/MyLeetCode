@@ -1,10 +1,10 @@
 # Summary
 ## Progress
-- Easy: 36 / 579     
+- Easy: 36 / 581     
 \#
-- Medium: 80 / 1229  
+- Medium: 88 / 1233  
 \#
-- Hard: 10 / 504     
+- Hard: 10 / 508     
 
 
 ## Problem
@@ -17,15 +17,18 @@
 - \[34\]\[Medium\] \- [Find First and Last Position of Element in Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 - \[41\]\[Hard\] \- [First Missing Positive](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/41.%20First%20Missing%20Positive)
 - \[42\]\[Hard\] \- [Trapping Rain Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/42.%20Trapping%20Rain%20Water)
+- \[45\]\[Medium\] \- [Jump Game II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/45.%20Jump%20Game%20II)
 - \[47\]\[Medium\] \- [Permutations II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/47.%20Permutations%20II)
 - \[51\]\[Hard\] \- [N-Queens](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/51.%20N-Queens)
 - \[53\]\[Easy\] \- [Maximum Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/53.%20Maximum%20Subarray)
+- \[55\]\[Medium\] \- [Jump Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/55.%20Jump%20Game)
 - \[59\]\[Medium\] \- [Spiral Matrix II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/59.%20Spiral%20Matrix%20II)
 - \[63\]\[Medium\] \- [Unique Paths II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/63.%20Unique%20Paths%20II)
 - \[64\]\[Medium\] \- [Minimum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/64.%20Minimum%20Path%20Sum)
 - \[79\]\[Medium\] \- [Word Search](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/79.%20Word%20Search)
 - \[88\]\[Easy\] \- [Merge Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/88.%20Merge%20Sorted%20Array)
 - \[120\]\[Medium\] \- [Triangle](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/120.%20Triangle)
+- \[128\]\[Medium\] \- [Longest Consecutive Sequence](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/128.%20Longest%20Consecutive%20Sequence)
 - \[198\]\[Medium\] \- [House Robber](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/198.%20House%20Robber)
 - \[213\]\[Medium\] \- [House Robber II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/213.%20House%20Robber%20II)
 - \[215\]\[Medium\] \- [Kth Largest Element in an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/215.%20Kth%20Largest%20Element%20in%20an%20Array)
@@ -47,10 +50,12 @@
 - \[498\]\[Medium\] \- [Diagonal Traverse](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/498.%20Diagonal%20Traverse)
 - \[532\]\[Medium\] \- [K-diff Pairs in an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/532.%20K-diff%20Pairs%20in%20an%20Array)
 - \[581\]\[Medium\] \- [Shortest Unsorted Continuous Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
+- \[665\]\[Medium\] \- [Non-decreasing Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/665.%20Non-decreasing%20Array)
 - \[682\]\[Easy\] \- [Baseball Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/682.%20Baseball%20Game)
 - \[705\]\[Easy\] \- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
 - \[706\]\[Easy\] \- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
 - \[719\]\[Hard\] \- [Find K-th Smallest Pair Distance](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/719.%20Find%20K-th%20Smallest%20Pair%20Distance)
+- \[740\]\[Medium\] \- [Delete and Earn](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/740.%20Delete%20and%20Earn)
 - \[746\]\[Easy\] \- [Min Cost Climbing Stairs](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/746.%20Min%20Cost%20Climbing%20Stairs)
 - \[806\]\[Easy\] \- [Number of Lines To Write String](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/806.%20Number%20of%20Lines%20To%20Write%20String)
 - \[867\]\[Easy\] \- [Transpose Matrix](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/867.%20Transpose%20Matrix)
@@ -63,6 +68,7 @@
 - \[1091\]\[Medium\] \- [Shortest Path in Binary Matrix](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
 - \[1260\]\[Easy\] \- [Shift 2D Grid](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1260.%20Shift%202D%20Grid)
 - \[1268\]\[Medium\] \- [Search Suggestions System](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1268.%20Search%20Suggestions%20System)
+- \[1423\]\[Medium\] \- [Maximum Points You Can Obtain from Cards](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 - \[1480\]\[Easy\] \- [Running Sum of 1d Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1480.%20Running%20Sum%20of%201d%20Array)
 - \[1584\]\[Medium\] \- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
 - \[1631\]\[Medium\] \- [Path With Minimum Effort](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1631.%20Path%20With%20Minimum%20Effort)
@@ -78,6 +84,7 @@
 - \[3\]\[Medium\] \- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 - \[17\]\[Medium\] \- [Letter Combinations of a Phone Number](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 - \[41\]\[Hard\] \- [First Missing Positive](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/41.%20First%20Missing%20Positive)
+- \[128\]\[Medium\] \- [Longest Consecutive Sequence](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/128.%20Longest%20Consecutive%20Sequence)
 - \[139\]\[Medium\] \- [Word Break](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/139.%20Word%20Break)
 - \[160\]\[Easy\] \- [Intersection of Two Linked Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/160.%20Intersection%20of%20Two%20Linked%20Lists)
 - \[268\]\[Easy\] \- [Missing Number](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/268.%20Missing%20Number)
@@ -85,6 +92,7 @@
 - \[532\]\[Medium\] \- [K-diff Pairs in an Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/532.%20K-diff%20Pairs%20in%20an%20Array)
 - \[705\]\[Easy\] \- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
 - \[706\]\[Easy\] \- [Design HashMap](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/706.%20Design%20HashMap)
+- \[740\]\[Medium\] \- [Delete and Earn](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/740.%20Delete%20and%20Earn)
 - \[819\]\[Easy\] \- [Most Common Word](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/819.%20Most%20Common%20Word)
 - \[923\]\[Medium\] \- [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
 - \[1048\]\[Medium\] \- [Longest String Chain](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1048.%20Longest%20String%20Chain)
@@ -98,6 +106,7 @@
 ### Linked List
 - \[2\]\[Medium\] \- [Add Two Numbers](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/2.%20Add%20Two%20Numbers)
 - \[21\]\[Easy\] \- [Merge Two Sorted Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/21.%20Merge%20Two%20Sorted%20Lists)
+- \[114\]\[Medium\] \- [Flatten Binary Tree to Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 - \[117\]\[Medium\] \- [Populating Next Right Pointers in Each Node II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)
 - \[160\]\[Easy\] \- [Intersection of Two Linked Lists](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/160.%20Intersection%20of%20Two%20Linked%20Lists)
 - \[705\]\[Easy\] \- [Design HashSet](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/705.%20Design%20HashSet)
@@ -151,8 +160,10 @@
 - \[1332\]\[Easy\] \- [Remove Palindromic Subsequences](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1332.%20Remove%20Palindromic%20Subsequences)
 - \[1396\]\[Medium\] \- [Design Underground System](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1396.%20Design%20Underground%20System)
 - \[1461\]\[Medium\] \- [Check If a String Contains All Binary Codes of Size K](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)
+- \[1689\]\[Medium\] \- [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 ### Sliding Window
 - \[3\]\[Medium\] \- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+- \[1423\]\[Medium\] \- [Maximum Points You Can Obtain from Cards](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 - \[1658\]\[Medium\] \- [Minimum Operations to Reduce X to Zero](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero)
 - \[1695\]\[Medium\] \- [Maximum Erasure Value](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1695.%20Maximum%20Erasure%20Value)
 ### Dynamic Programming
@@ -160,7 +171,9 @@
 - \[22\]\[Medium\] \- [Generate Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/22.%20Generate%20Parentheses)
 - \[32\]\[Hard\] \- [Longest Valid Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/32.%20Longest%20Valid%20Parentheses)
 - \[42\]\[Hard\] \- [Trapping Rain Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/42.%20Trapping%20Rain%20Water)
+- \[45\]\[Medium\] \- [Jump Game II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/45.%20Jump%20Game%20II)
 - \[53\]\[Easy\] \- [Maximum Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/53.%20Maximum%20Subarray)
+- \[55\]\[Medium\] \- [Jump Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/55.%20Jump%20Game)
 - \[63\]\[Medium\] \- [Unique Paths II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/63.%20Unique%20Paths%20II)
 - \[64\]\[Medium\] \- [Minimum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/64.%20Minimum%20Path%20Sum)
 - \[70\]\[Easy\] \- [Climbing Stairs](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/70.%20Climbing%20Stairs)
@@ -175,6 +188,7 @@
 - \[509\]\[Easy\] \- [Fibonacci Number](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/509.%20Fibonacci%20Number)
 - \[583\]\[Medium\] \- [Delete Operation for Two Strings](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/583.%20Delete%20Operation%20for%20Two%20Strings)
 - \[647\]\[Medium\] \- [Palindromic Substrings](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/647.%20Palindromic%20Substrings)
+- \[740\]\[Medium\] \- [Delete and Earn](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/740.%20Delete%20and%20Earn)
 - \[746\]\[Easy\] \- [Min Cost Climbing Stairs](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/746.%20Min%20Cost%20Climbing%20Stairs)
 - \[887\]\[Hard\] \- [Super Egg Drop](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/887.%20Super%20Egg%20Drop)
 - \[1048\]\[Medium\] \- [Longest String Chain](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1048.%20Longest%20String%20Chain)
@@ -203,10 +217,13 @@
 - \[1721\]\[Medium\] \- [Swapping Nodes in a Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List)
 ### Greedy
 - \[11\]\[Medium\] \- [Container With Most Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/11.%20Container%20With%20Most%20Water)
+- \[45\]\[Medium\] \- [Jump Game II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/45.%20Jump%20Game%20II)
+- \[55\]\[Medium\] \- [Jump Game](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/55.%20Jump%20Game)
 - \[406\]\[Medium\] \- [Queue Reconstruction by Height](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/406.%20Queue%20Reconstruction%20by%20Height)
 - \[581\]\[Medium\] \- [Shortest Unsorted Continuous Subarray](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - \[942\]\[Easy\] \- [DI String Match](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/942.%20DI%20String%20Match)
 - \[1642\]\[Medium\] \- [Furthest Building You Can Reach](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1642.%20Furthest%20Building%20You%20Can%20Reach)
+- \[1689\]\[Medium\] \- [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 ### Sorting
 - \[15\]\[Medium\] \- [3Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/15.%203Sum)
 - \[88\]\[Easy\] \- [Merge Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/88.%20Merge%20Sorted%20Array)
@@ -236,6 +253,7 @@
 - \[20\]\[Easy\] \- [Valid Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/20.%20Valid%20Parentheses)
 - \[32\]\[Hard\] \- [Longest Valid Parentheses](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/32.%20Longest%20Valid%20Parentheses)
 - \[42\]\[Hard\] \- [Trapping Rain Water](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/42.%20Trapping%20Rain%20Water)
+- \[114\]\[Medium\] \- [Flatten Binary Tree to Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 - \[173\]\[Medium\] \- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
 - \[225\]\[Easy\] \- [Implement Stack using Queues](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/225.%20Implement%20Stack%20using%20Queues)
 - \[388\]\[Medium\] \- [Longest Absolute File Path](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/388.%20Longest%20Absolute%20File%20Path)
@@ -299,6 +317,7 @@
 - \[103\]\[Medium\] \- [Binary Tree Zigzag Level Order Traversal](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 - \[110\]\[Easy\] \- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
 - \[113\]\[Medium\] \- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- \[114\]\[Medium\] \- [Flatten Binary Tree to Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 - \[117\]\[Medium\] \- [Populating Next Right Pointers in Each Node II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)
 - \[124\]\[Hard\] \- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
 - \[173\]\[Medium\] \- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
@@ -317,6 +336,7 @@
 - \[99\]\[Medium\] \- [Recover Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/99.%20Recover%20Binary%20Search%20Tree)
 - \[110\]\[Easy\] \- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
 - \[113\]\[Medium\] \- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- \[114\]\[Medium\] \- [Flatten Binary Tree to Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 - \[117\]\[Medium\] \- [Populating Next Right Pointers in Each Node II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)
 - \[124\]\[Hard\] \- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
 - \[199\]\[Medium\] \- [Binary Tree Right Side View](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/199.%20Binary%20Tree%20Right%20Side%20View)
@@ -349,6 +369,7 @@
 - \[103\]\[Medium\] \- [Binary Tree Zigzag Level Order Traversal](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 - \[110\]\[Easy\] \- [Balanced Binary Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/110.%20Balanced%20Binary%20Tree)
 - \[113\]\[Medium\] \- [Path Sum II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/113.%20Path%20Sum%20II)
+- \[114\]\[Medium\] \- [Flatten Binary Tree to Linked List](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 - \[117\]\[Medium\] \- [Populating Next Right Pointers in Each Node II](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II)
 - \[124\]\[Hard\] \- [Binary Tree Maximum Path Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
 - \[173\]\[Medium\] \- [Binary Search Tree Iterator](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/173.%20Binary%20Search%20Tree%20Iterator)
@@ -375,6 +396,14 @@
 - \[1202\]\[Medium\] \- [Smallest String With Swaps](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1202.%20Smallest%20String%20With%20Swaps)
 - \[1302\]\[Medium\] \- [Deepest Leaves Sum](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1302.%20Deepest%20Leaves%20Sum)
 - \[1379\]\[Medium\] \- [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree)
+- \[1631\]\[Medium\] \- [Path With Minimum Effort](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1631.%20Path%20With%20Minimum%20Effort)
+### Union Find
+- \[128\]\[Medium\] \- [Longest Consecutive Sequence](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/128.%20Longest%20Consecutive%20Sequence)
+- \[399\]\[Medium\] \- [Evaluate Division](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/399.%20Evaluate%20Division)
+- \[547\]\[Medium\] \- [Number of Provinces](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/547.%20Number%20of%20Provinces)
+- \[785\]\[Medium\] \- [Is Graph Bipartite](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/785.%20Is%20Graph%20Bipartite)
+- \[1202\]\[Medium\] \- [Smallest String With Swaps](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1202.%20Smallest%20String%20With%20Swaps)
+- \[1584\]\[Medium\] \- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
 - \[1631\]\[Medium\] \- [Path With Minimum Effort](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1631.%20Path%20With%20Minimum%20Effort)
 ### Trie
 - \[139\]\[Medium\] \- [Word Break](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/139.%20Word%20Break)
@@ -415,6 +444,7 @@
 - \[225\]\[Easy\] \- [Implement Stack using Queues](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/225.%20Implement%20Stack%20using%20Queues)
 ### Prefix Sum
 - \[304\]\[Medium\] \- [Range Sum Query 2D - Immutable](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/304.%20Range%20Sum%20Query%202D%20-%20Immutable)
+- \[1423\]\[Medium\] \- [Maximum Points You Can Obtain from Cards](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 - \[1480\]\[Easy\] \- [Running Sum of 1d Array](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1480.%20Running%20Sum%20of%201d%20Array)
 - \[1658\]\[Medium\] \- [Minimum Operations to Reduce X to Zero](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero)
 - \[1893\]\[Easy\] \- [Check if All the Integers in a Range Are Covered](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
@@ -431,13 +461,6 @@
 - \[347\]\[Medium\] \- [Top K Frequent Elements](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/347.%20Top%20K%20Frequent%20Elements)
 - \[819\]\[Easy\] \- [Most Common Word](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/819.%20Most%20Common%20Word)
 - \[923\]\[Medium\] \- [3Sum With Multiplicity](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/923.%203Sum%20With%20Multiplicity)
-### Union Find
-- \[399\]\[Medium\] \- [Evaluate Division](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/399.%20Evaluate%20Division)
-- \[547\]\[Medium\] \- [Number of Provinces](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/547.%20Number%20of%20Provinces)
-- \[785\]\[Medium\] \- [Is Graph Bipartite](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/785.%20Is%20Graph%20Bipartite)
-- \[1202\]\[Medium\] \- [Smallest String With Swaps](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1202.%20Smallest%20String%20With%20Swaps)
-- \[1584\]\[Medium\] \- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
-- \[1631\]\[Medium\] \- [Path With Minimum Effort](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/1631.%20Path%20With%20Minimum%20Effort)
 ### Graph
 - \[399\]\[Medium\] \- [Evaluate Division](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/399.%20Evaluate%20Division)
 - \[547\]\[Medium\] \- [Number of Provinces](https://github.com/BjChacha/MyLeetCode/tree/main/Problems/547.%20Number%20of%20Provinces)
