@@ -1,14 +1,14 @@
 class Solution {
 private:
     bool compare(string a, string b) {
-        unordered_map<char, char> matcher;
+        int matcher[26] {0};
         bool seen[26] {false};
         for (int i = 0; i < a.length(); ++i) {
-            if (matcher.count(a[i]) == 0) {
+            if (matcher[a[i]-'a'] == 0) {
                 if (seen[b[i]-'a']) return false;
-                matcher[a[i]] = b[i];
+                matcher[a[i]-'a'] = b[i] - 'a' + 1;
             } else {
-                if (matcher[a[i]] != b[i]) return false;
+                if (matcher[a[i]-'a'] != b[i] - 'a' + 1) return false;
             }
             seen[b[i]-'a'] = true;
         }
