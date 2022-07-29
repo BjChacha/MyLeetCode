@@ -16,12 +16,14 @@ url: {url}
 QUERY_PROBLEM_INFO = 'query questionData($titleSlug: String!) {\n    question(titleSlug: $titleSlug) {\n        questionFrontendId\n        title\n        difficulty\n        categoryTitle\n        topicTags {\n            name\n            slug\n            translatedName\n            __typename\n        }\n        stats\n        __typename\n    }\n}'
 QUERY_DIFFICULTY_NUMBER = '\n    query userSessionProgress($username: String!) {\n  allQuestionsCount {\n    difficulty\n    count\n  }\n  matchedUser(username: $username) {\n    submitStats {\n      acSubmissionNum {\n        difficulty\n        count\n        submissions\n      }\n      totalSubmissionNum {\n        difficulty\n        count\n        submissions\n      }\n    }\n  }\n}\n    '
 
-DIR_PROBLEM = "Problems"
-DIR_LCOF = "StudyPlan/剑指Offer"
+DIR_LEETCODE_PROBLEM = 'LeetCode/Problems'
+DIR_LCOF = 'LeetCode/StudyPlan/剑指Offer'
+DIR_ACWING_PROBLEM = 'AcWing/Problems'
 
 DIRS = {
-    1: DIR_PROBLEM,
-    2: DIR_LCOF
+    1: DIR_LEETCODE_PROBLEM,
+    2: DIR_LCOF,
+    3: DIR_ACWING_PROBLEM,
 }
 
 URL_GRAPHQL_LEETCODE = 'https://leetcode.com/graphql/'
