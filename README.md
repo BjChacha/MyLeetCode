@@ -5,7 +5,14 @@ My LeetCode code collection
 
 - [Summary](https://github.com/BjChacha/MyLeetCode/blob/main/Summary.md)
 
-## TODO feat
+## Feats
+
+- Supports [LeetCode](https://leetcode.com/), [LeetCodeCN](https://leetcode.cn/), [AcWing](https://www.acwing.com/);
+- Automatic markdown header generation;
+- Automatic progress report generation;
+- ...
+
+## TODO
 
 - [x] Format README.
 - [x] Grab problemset from LeetCode automatically.
