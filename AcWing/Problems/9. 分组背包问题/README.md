@@ -8,5 +8,5 @@ url: https://www.acwing.com/problem/content/9/
 
 # 9. 分组背包问题
 
-[Leetcode](https://www.acwing.com/problem/content/9/)
+[AcWing](https://www.acwing.com/problem/content/9/)
 
