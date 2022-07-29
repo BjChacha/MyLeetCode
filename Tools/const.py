@@ -9,7 +9,7 @@ url: {url}
 
 # {no}. {title}
 
-[Leetcode]({url})
+[{source}]({url})
 
 '''
 

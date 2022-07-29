@@ -42,19 +42,19 @@ def get_problem_info_LeetCode(url):
     return content
 
 def get_problem_info_AcWing(url):
-    # try:
-    page = requests.get(url)
-    soup = bs(page.text, 'lxml')
-    data = {}
+    try:
+        page = requests.get(url)
+        soup = bs(page.text, 'lxml')
+        data = {}
 
-    data['id'], data['title'] = soup.find('div', {'class': 'problem-content-title'}).text.strip().split('.')
-    data['title'] = data['title'].strip()
-    data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
-    data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
+        data['id'], data['title'] = soup.find('div', {'class': 'problem-content-title'}).text.strip().split('.')
+        data['title'] = data['title'].strip()
+        data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
+        data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
 
-    return data
-    # except:
-    #     print('Get AcWing problem failed.')
+        return data
+    except:
+        print('Get AcWing problem failed.')
 
 def convertLeetCodeData(data, flag):
     converted = {}
@@ -76,6 +76,10 @@ def build_template(data):
     problem_difficulty = data['difficulty']
     problem_tags = f"[{', '.join(data['tags'])}]"
     
+    source = 'LeetCode'
+    if data['flag'] == 3:
+        source = 'AcWing'
+    
     folder_name = f"{DIRS[data['flag']]}/{problem_no}. {problem_title}"
     file_name = '/'.join([folder_name, 'README.md'])
 
@@ -92,7 +96,9 @@ def build_template(data):
             no=problem_no,
             difficulty=problem_difficulty,
             tags=problem_tags,
-            url=data['url'])
+            url=data['url'],
+            source=source,
+            )
         with open(file_name, 'w', encoding='utf-8') as f:
             f.writelines(content)
 
@@ -110,21 +116,21 @@ def url_preprocesser(url):
 
 def main():
     while True:
-        # try:
-        flag = input("Enter problem type:\n\t[q]: Exit\n\t[1]: LeetCode Problem\n\t[2]: LeetCode-CN 剑指 Offer\n\t[3]: AcWing\n") or '0'
-        if flag == 'q':
-            break
-        flag = int(flag)
-        if flag not in [1, 2, 3]:
-            raise ValueError
+        try:
+            flag = input("Enter problem type:\n\t[q]: Exit\n\t[1]: LeetCode Problem\n\t[2]: LeetCode-CN 剑指 Offer\n\t[3]: AcWing\n") or '0'
+            if flag == 'q':
+                break
+            flag = int(flag)
+            if flag not in [1, 2, 3]:
+                raise ValueError
 
-        url = input("Enter LeetCode problem url: ")
-        url = url_preprocesser(url)
-        data = get_problem_info(url, flag)
-        build_template(data)
+            url = input("Enter LeetCode problem url: ")
+            url = url_preprocesser(url)
+            data = get_problem_info(url, flag)
+            build_template(data)
 
-        # except ValueError:
-        #     print("Invalid type.")
+        except ValueError:
+            print("Invalid type.")
 
 if __name__ == '__main__':
     main()
