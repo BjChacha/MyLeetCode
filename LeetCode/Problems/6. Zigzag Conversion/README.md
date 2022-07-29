@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/zigzag-conversion/
 
 # 6. Zigzag Conversion
 
-[Leetcode](https://leetcode.com/problems/zigzag-conversion/)
+[LeetCode](https://leetcode.com/problems/zigzag-conversion/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/house-robber-ii/
 
 # 213. House Robber II
 
-[Leetcode](https://leetcode.com/problems/house-robber-ii/)
+[LeetCode](https://leetcode.com/problems/house-robber-ii/)
 

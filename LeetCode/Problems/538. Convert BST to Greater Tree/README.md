@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/convert-bst-to-greater-tree/
 
 # 538. Convert BST to Greater Tree
 
-[Leetcode](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+[LeetCode](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 

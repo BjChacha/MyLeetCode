@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/delete-and-earn/
 
 # 740. Delete and Earn
 
-[Leetcode](https://leetcode.com/problems/delete-and-earn/)
+[LeetCode](https://leetcode.com/problems/delete-and-earn/)
 

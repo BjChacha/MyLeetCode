@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/longest-palindromic-substring/
 
 # 5. Longest Palindromic Substring
 
-[Leetcode](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+[LeetCode](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/trapping-rain-water/
 
 # 42. Trapping Rain Water
 
-[Leetcode](https://leetcode.com/problems/trapping-rain-water/)
+[LeetCode](https://leetcode.com/problems/trapping-rain-water/)
 

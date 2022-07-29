@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 
 # 703. Kth Largest Element in a Stream
 
-[Leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+[LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/)

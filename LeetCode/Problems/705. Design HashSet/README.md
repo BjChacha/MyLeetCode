@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/design-hashset/
 
 # 705. Design HashSet
 
-[Leetcode](https://leetcode.com/problems/design-hashset/)
+[LeetCode](https://leetcode.com/problems/design-hashset/)
 

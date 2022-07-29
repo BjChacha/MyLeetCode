@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/partition-list/
 
 # 86. Partition List
 
-[Leetcode](https://leetcode.com/problems/partition-list/)
+[LeetCode](https://leetcode.com/problems/partition-list/)
 

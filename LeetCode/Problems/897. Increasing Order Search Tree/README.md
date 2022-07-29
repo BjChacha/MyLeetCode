@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/increasing-order-search-tree/
 
 # 897. Increasing Order Search Tree
 
-[Leetcode](https://leetcode.com/problems/increasing-order-search-tree/)
+[LeetCode](https://leetcode.com/problems/increasing-order-search-tree/)
 

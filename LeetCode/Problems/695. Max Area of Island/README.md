@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/max-area-of-island/
 
 # 695. Max Area of Island
 
-[Leetcode](https://leetcode.com/problems/max-area-of-island/)
+[LeetCode](https://leetcode.com/problems/max-area-of-island/)
 

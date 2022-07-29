@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 
 # 1046. Last Stone Weight
 
-[Leetcode](https://leetcode.com/problems/last-stone-weight/)
+[LeetCode](https://leetcode.com/problems/last-stone-weight/)

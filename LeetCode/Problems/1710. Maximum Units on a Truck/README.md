@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/maximum-units-on-a-truck/
 
 # 1710. Maximum Units on a Truck
 
-[Leetcode](https://leetcode.com/problems/maximum-units-on-a-truck/)
+[LeetCode](https://leetcode.com/problems/maximum-units-on-a-truck/)
 

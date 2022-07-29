@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 
 # 1658. Minimum Operations to Reduce X to Zero
 
-[Leetcode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+[LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
 

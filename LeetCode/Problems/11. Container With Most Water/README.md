@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/container-with-most-water/
 
 # 11. Container With Most Water
 
-[Leetcode](https://leetcode.com/problems/container-with-most-water/)
+[LeetCode](https://leetcode.com/problems/container-with-most-water/)
 
 ## 方法1. 双指针+贪心算法
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/smallest-string-with-swaps/
 
 # 1202. Smallest String With Swaps
 
-[Leetcode](https://leetcode.com/problems/smallest-string-with-swaps/)
+[LeetCode](https://leetcode.com/problems/smallest-string-with-swaps/)
 

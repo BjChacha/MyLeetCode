@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/complete-binary-tree-inserter/
 
 # 919. Complete Binary Tree Inserter
 
-[Leetcode](https://leetcode.com/problems/complete-binary-tree-inserter/)
+[LeetCode](https://leetcode.com/problems/complete-binary-tree-inserter/)
 

@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/merge-sorted-array/
 
 # 88. Merge Sorted Array
 
-[Leetcode](https://leetcode.com/problems/merge-sorted-array/)
+[LeetCode](https://leetcode.com/problems/merge-sorted-array/)

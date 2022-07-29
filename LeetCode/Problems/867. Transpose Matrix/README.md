@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/transpose-matrix/
 
 # 867. Transpose Matrix
 
-[Leetcode](https://leetcode.com/problems/transpose-matrix/)
+[LeetCode](https://leetcode.com/problems/transpose-matrix/)
 

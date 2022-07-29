@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/fibonacci-number/
 
 # 509. Fibonacci Number
 
-[Leetcode](https://leetcode.com/problems/fibonacci-number/)
+[LeetCode](https://leetcode.com/problems/fibonacci-number/)
 

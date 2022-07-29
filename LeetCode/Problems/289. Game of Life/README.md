@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/game-of-life/
 
 # 289. Game of Life
 
-[Leetcode](https://leetcode.com/problems/game-of-life/)
+[LeetCode](https://leetcode.com/problems/game-of-life/)
 

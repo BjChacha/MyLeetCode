@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/jump-game-ii/
 
 # 45. Jump Game II
 
-[Leetcode](https://leetcode.com/problems/jump-game-ii/)
+[LeetCode](https://leetcode.com/problems/jump-game-ii/)
 

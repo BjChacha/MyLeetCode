@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/rank-transform-of-an-array/
 
 # 1331. Rank Transform of an Array
 
-[Leetcode](https://leetcode.com/problems/rank-transform-of-an-array/)
+[LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/)
 

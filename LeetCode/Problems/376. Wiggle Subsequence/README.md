@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/wiggle-subsequence/
 
 # 376. Wiggle Subsequence
 
-[Leetcode](https://leetcode.com/problems/wiggle-subsequence/)
+[LeetCode](https://leetcode.com/problems/wiggle-subsequence/)
 

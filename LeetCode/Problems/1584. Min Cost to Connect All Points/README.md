@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/min-cost-to-connect-all-points/
 
 # 1584. Min Cost to Connect All Points
 
-[Leetcode](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+[LeetCode](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ### 方法1 最小生成树
 

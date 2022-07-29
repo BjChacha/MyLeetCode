@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
 # 124. Binary Tree Maximum Path Sum
 
-[Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+[LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 

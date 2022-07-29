@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/merge-two-sorted-lists/
 
 # 21. Merge Two Sorted Lists
 
-[Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)
+[LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
 

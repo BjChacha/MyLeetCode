@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/coin-change/
 
 # 322. Coin Change
 
-[Leetcode](https://leetcode.com/problems/coin-change/)
+[LeetCode](https://leetcode.com/problems/coin-change/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/subtree-of-another-tree/
 
 # 572. Subtree of Another Tree
 
-[Leetcode](https://leetcode.com/problems/subtree-of-another-tree/)
+[LeetCode](https://leetcode.com/problems/subtree-of-another-tree/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/rotate-string/
 
 # 796. Rotate String
 
-[Leetcode](https://leetcode.com/problems/rotate-string/)
+[LeetCode](https://leetcode.com/problems/rotate-string/)
 

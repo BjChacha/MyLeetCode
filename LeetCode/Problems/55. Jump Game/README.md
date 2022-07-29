@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/jump-game/
 
 # 55. Jump Game
 
-[Leetcode](https://leetcode.com/problems/jump-game/)
+[LeetCode](https://leetcode.com/problems/jump-game/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/min-cost-climbing-stairs/
 
 # 746. Min Cost Climbing Stairs
 
-[Leetcode](https://leetcode.com/problems/min-cost-climbing-stairs/)
+[LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)
 

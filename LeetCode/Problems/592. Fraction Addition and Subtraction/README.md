@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/fraction-addition-and-subtraction/
 
 # 592. Fraction Addition and Subtraction
 
-[Leetcode](https://leetcode.com/problems/fraction-addition-and-subtraction/)
+[LeetCode](https://leetcode.com/problems/fraction-addition-and-subtraction/)
 

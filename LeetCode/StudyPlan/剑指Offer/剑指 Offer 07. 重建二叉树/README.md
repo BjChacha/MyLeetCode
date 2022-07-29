@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
 
 # 剑指 Offer 07. 重建二叉树
 
-[Leetcode](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
 

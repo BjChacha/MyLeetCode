@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
 
 # 剑指 Offer 15. 二进制中1的个数
 
-[Leetcode](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
 

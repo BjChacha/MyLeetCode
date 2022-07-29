@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 
 # 719. Find K-th Smallest Pair Distance
 
-[Leetcode](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+[LeetCode](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
 

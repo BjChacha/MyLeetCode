@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
 
 # 剑指 Offer 35. 复杂链表的复制
 
-[Leetcode](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)
 

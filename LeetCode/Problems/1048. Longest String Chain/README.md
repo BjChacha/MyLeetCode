@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/longest-string-chain/
 
 # 1048. Longest String Chain
 
-[Leetcode](https://leetcode.com/problems/longest-string-chain/)
+[LeetCode](https://leetcode.com/problems/longest-string-chain/)
 

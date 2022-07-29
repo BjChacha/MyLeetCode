@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
 # 17. Letter Combinations of a Phone Number
 
-[Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+[LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/triangle/
 
 # 120. Triangle
 
-[Leetcode](https://leetcode.com/problems/triangle/)
+[LeetCode](https://leetcode.com/problems/triangle/)
 

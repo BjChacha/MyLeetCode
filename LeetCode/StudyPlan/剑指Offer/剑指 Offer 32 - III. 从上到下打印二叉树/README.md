@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-l
 
 # 剑指 Offer 32 - III. 从上到下打印二叉树
 
-[Leetcode](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)
 

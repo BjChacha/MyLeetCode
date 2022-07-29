@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/top-k-frequent-elements/
 
 # 347. Top K Frequent Elements
 
-[Leetcode](https://leetcode.com/problems/top-k-frequent-elements/)
+[LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)

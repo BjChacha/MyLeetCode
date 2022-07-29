@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/longest-absolute-file-path/
 
 # 388. Longest Absolute File Path
 
-[Leetcode](https://leetcode-cn.com/problems/longest-absolute-file-path/)
+[LeetCode](https://leetcode-cn.com/problems/longest-absolute-file-path/)
 

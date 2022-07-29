@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
 
 # 剑指 Offer 24. 反转链表
 
-[Leetcode](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/candy/
 
 # 135. Candy
 
-[Leetcode](https://leetcode.com/problems/candy/)
+[LeetCode](https://leetcode.com/problems/candy/)
 

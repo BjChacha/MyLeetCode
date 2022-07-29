@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 # 236. Lowest Common Ancestor of a Binary Tree
 
-[Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+[LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 

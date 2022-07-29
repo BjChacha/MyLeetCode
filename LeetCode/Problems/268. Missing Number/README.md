@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/missing-number/
 
 # 268. Missing Number
 
-[Leetcode](https://leetcode.com/problems/missing-number/)
+[LeetCode](https://leetcode.com/problems/missing-number/)
 

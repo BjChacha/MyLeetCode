@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/queue-reconstruction-by-height/
 
 # 406. Queue Reconstruction by Height
 
-[Leetcode](https://leetcode.com/problems/queue-reconstruction-by-height/)
+[LeetCode](https://leetcode.com/problems/queue-reconstruction-by-height/)
 
 ### 方法1 排序
 

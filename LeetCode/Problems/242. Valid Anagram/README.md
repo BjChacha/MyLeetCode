@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/valid-anagram/
 
 # 242. Valid Anagram
 
-[Leetcode](https://leetcode.com/problems/valid-anagram/)
+[LeetCode](https://leetcode.com/problems/valid-anagram/)
 

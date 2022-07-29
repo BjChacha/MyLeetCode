@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/next-permutation/
 
 # 31. Next Permutation
 
-[Leetcode](https://leetcode.com/problems/next-permutation/)
+[LeetCode](https://leetcode.com/problems/next-permutation/)

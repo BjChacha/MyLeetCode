@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/3sum-with-multiplicity/
 
 # 923. 3Sum With Multiplicity
 
-[Leetcode](https://leetcode.com/problems/3sum-with-multiplicity/)
+[LeetCode](https://leetcode.com/problems/3sum-with-multiplicity/)

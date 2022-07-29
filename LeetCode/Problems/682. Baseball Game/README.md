@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/baseball-game/
 
 # 682. Baseball Game
 
-[Leetcode](https://leetcode.com/problems/baseball-game/)
+[LeetCode](https://leetcode.com/problems/baseball-game/)
 
 ## 方法1. 模拟法
 

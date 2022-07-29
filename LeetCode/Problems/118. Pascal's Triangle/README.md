@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/pascals-triangle/
 
 # 118. Pascal's Triangle
 
-[Leetcode](https://leetcode.com/problems/pascals-triangle/)
+[LeetCode](https://leetcode.com/problems/pascals-triangle/)
 

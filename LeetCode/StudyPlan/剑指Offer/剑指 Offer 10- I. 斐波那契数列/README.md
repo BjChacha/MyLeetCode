@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 
 # 剑指 Offer 10- I. 斐波那契数列
 
-[Leetcode](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 

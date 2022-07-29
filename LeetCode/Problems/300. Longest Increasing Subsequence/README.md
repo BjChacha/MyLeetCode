@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/longest-increasing-subsequence/
 
 # 300. Longest Increasing Subsequence
 
-[Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/)
+[LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)
 

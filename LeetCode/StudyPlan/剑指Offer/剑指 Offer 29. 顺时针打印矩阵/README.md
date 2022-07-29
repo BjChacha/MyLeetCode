@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/
 
 # 剑指 Offer 29. 顺时针打印矩阵
 
-[Leetcode](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
 

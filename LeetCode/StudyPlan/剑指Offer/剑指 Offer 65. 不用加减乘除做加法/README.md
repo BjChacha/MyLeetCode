@@ -8,7 +8,7 @@ url: https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof
 
 # 剑指 Offer 65. 不用加减乘除做加法
 
-[Leetcode](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)
 
 ### 方法1. 位运算
 

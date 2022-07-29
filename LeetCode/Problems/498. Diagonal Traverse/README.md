@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/diagonal-traverse/
 
 # 498. Diagonal Traverse
 
-[Leetcode](https://leetcode.com/problems/diagonal-traverse/)
+[LeetCode](https://leetcode.com/problems/diagonal-traverse/)
 

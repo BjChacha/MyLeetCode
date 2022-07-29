@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/minimum-path-sum/
 
 # 64. Minimum Path Sum
 
-[Leetcode](https://leetcode-cn.com/problems/minimum-path-sum/)
+[LeetCode](https://leetcode-cn.com/problems/minimum-path-sum/)
 

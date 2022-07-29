@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/climbing-stairs/
 
 # 70. Climbing Stairs
 
-[Leetcode](https://leetcode.com/problems/climbing-stairs/)
+[LeetCode](https://leetcode.com/problems/climbing-stairs/)
 

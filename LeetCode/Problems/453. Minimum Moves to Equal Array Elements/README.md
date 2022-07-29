@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 
 # 453. Minimum Moves to Equal Array Elements
 
-[Leetcode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+[LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 

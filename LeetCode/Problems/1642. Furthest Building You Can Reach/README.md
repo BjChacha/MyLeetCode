@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/furthest-building-you-can-reach/
 
 # 1642. Furthest Building You Can Reach
 
-[Leetcode](https://leetcode.com/problems/furthest-building-you-can-reach/)
+[LeetCode](https://leetcode.com/problems/furthest-building-you-can-reach/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/is-graph-bipartite/
 
 # 785. Is Graph Bipartite
 
-[Leetcode](https://leetcode.com/problems/is-graph-bipartite/)
+[LeetCode](https://leetcode.com/problems/is-graph-bipartite/)
 

@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/add-strings/
 
 # 415. Add Strings
 
-[Leetcode](https://leetcode-cn.com/problems/add-strings/)
+[LeetCode](https://leetcode-cn.com/problems/add-strings/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/shift-2d-grid/
 
 # 1260. Shift 2D Grid
 
-[Leetcode](https://leetcode.com/problems/shift-2d-grid/)
+[LeetCode](https://leetcode.com/problems/shift-2d-grid/)
 

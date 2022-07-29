@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/unique-paths-ii/
 
 # 63. Unique Paths II
 
-[Leetcode](https://leetcode.com/problems/unique-paths-ii/)
+[LeetCode](https://leetcode.com/problems/unique-paths-ii/)
 

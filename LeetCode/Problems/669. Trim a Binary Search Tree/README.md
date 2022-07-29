@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/trim-a-binary-search-tree/
 
 # 669. Trim a Binary Search Tree
 
-[Leetcode](https://leetcode.com/problems/trim-a-binary-search-tree/)
+[LeetCode](https://leetcode.com/problems/trim-a-binary-search-tree/)
 

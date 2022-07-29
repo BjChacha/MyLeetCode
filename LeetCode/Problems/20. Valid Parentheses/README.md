@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/valid-parentheses/
 
 # 20. Valid Parentheses
 
-[Leetcode](https://leetcode-cn.com/problems/valid-parentheses/)
+[LeetCode](https://leetcode-cn.com/problems/valid-parentheses/)
 

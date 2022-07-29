@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/k-diff-pairs-in-an-array/
 
 # 532. K-diff Pairs in an Array
 
-[Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+[LeetCode](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 

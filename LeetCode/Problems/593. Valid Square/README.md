@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/valid-square/
 
 # 593. Valid Square
 
-[Leetcode](https://leetcode.com/problems/valid-square/)
+[LeetCode](https://leetcode.com/problems/valid-square/)
 

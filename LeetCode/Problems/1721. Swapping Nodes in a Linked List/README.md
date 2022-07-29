@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 
 # 1721. Swapping Nodes in a Linked List
 
-[Leetcode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+[LeetCode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)

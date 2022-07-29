@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/kth-largest-element-in-an-array/
 
 # 215. Kth Largest Element in an Array
 
-[Leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+[LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 

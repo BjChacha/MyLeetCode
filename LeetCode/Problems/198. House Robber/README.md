@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/house-robber/
 
 # 198. House Robber
 
-[Leetcode](https://leetcode.com/problems/house-robber/)
+[LeetCode](https://leetcode.com/problems/house-robber/)
 
 ### 方法1. 动态规划
 

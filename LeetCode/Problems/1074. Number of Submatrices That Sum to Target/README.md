@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 
 # 1074. Number of Submatrices That Sum to Target
 
-[Leetcode](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+[LeetCode](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
 

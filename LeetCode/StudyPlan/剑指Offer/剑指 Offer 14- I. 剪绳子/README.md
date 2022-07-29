@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
 
 # 剑指 Offer 14- I. 剪绳子
 
-[Leetcode](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
 

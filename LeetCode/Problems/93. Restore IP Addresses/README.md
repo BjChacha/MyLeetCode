@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/restore-ip-addresses/
 
 # 93. Restore IP Addresses
 
-[Leetcode](https://leetcode.com/problems/restore-ip-addresses/)
+[LeetCode](https://leetcode.com/problems/restore-ip-addresses/)
 

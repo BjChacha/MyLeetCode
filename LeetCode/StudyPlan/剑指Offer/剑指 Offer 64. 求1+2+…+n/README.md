@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/qiu-12n-lcof/
 
 # 剑指 Offer 64. 求1+2+…+n
 
-[Leetcode](https://leetcode-cn.com/problems/qiu-12n-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/qiu-12n-lcof/)
 

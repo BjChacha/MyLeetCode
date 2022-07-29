@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/
 
 # 剑指 Offer 28. 对称的二叉树
 
-[Leetcode](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
 

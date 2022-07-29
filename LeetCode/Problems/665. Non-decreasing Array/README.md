@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/non-decreasing-array/
 
 # 665. Non-decreasing Array
 
-[Leetcode](https://leetcode.com/problems/non-decreasing-array/)
+[LeetCode](https://leetcode.com/problems/non-decreasing-array/)
 
 ### 方法1. 贪心
 

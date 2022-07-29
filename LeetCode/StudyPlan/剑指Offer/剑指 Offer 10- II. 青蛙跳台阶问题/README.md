@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
 
 # 剑指 Offer 10- II. 青蛙跳台阶问题
 
-[Leetcode](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 

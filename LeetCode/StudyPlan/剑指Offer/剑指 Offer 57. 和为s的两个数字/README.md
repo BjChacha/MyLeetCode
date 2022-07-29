@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/
 
 # 剑指 Offer 57. 和为s的两个数字
 
-[Leetcode](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)
 

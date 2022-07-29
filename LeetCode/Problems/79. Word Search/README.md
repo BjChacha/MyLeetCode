@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/word-search/
 
 # 79. Word Search
 
-[Leetcode](https://leetcode.com/problems/word-search/)
+[LeetCode](https://leetcode.com/problems/word-search/)
 

@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/remove-palindromic-subsequences/
 
 # 1332. Remove Palindromic Subsequences
 
-[Leetcode](https://leetcode.com/problems/remove-palindromic-subsequences/)
+[LeetCode](https://leetcode.com/problems/remove-palindromic-subsequences/)
 
 ### 方法1：双指针
 

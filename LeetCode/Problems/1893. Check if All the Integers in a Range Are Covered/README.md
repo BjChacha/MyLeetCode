@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-cove
 
 # 1893. Check if All the Integers in a Range Are Covered
 
-[Leetcode](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
+[LeetCode](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
 

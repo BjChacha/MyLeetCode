@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/reverse-integer/
 
 # 7. Reverse Integer
 
-[Leetcode](https://leetcode.com/problems/reverse-integer/)
+[LeetCode](https://leetcode.com/problems/reverse-integer/)
 

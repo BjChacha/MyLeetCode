@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/reverse-linked-list-ii/
 
 # 92. Reverse Linked List II
 
-[Leetcode](https://leetcode.com/problems/reverse-linked-list-ii/)
+[LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/)
 

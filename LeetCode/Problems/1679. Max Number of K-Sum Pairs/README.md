@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/max-number-of-k-sum-pairs/
 
 # 1679. Max Number of K-Sum Pairs
 
-[Leetcode](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+[LeetCode](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 

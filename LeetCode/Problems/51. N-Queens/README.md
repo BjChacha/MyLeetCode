@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/n-queens/
 
 # 51. N-Queens
 
-[Leetcode](https://leetcode.com/problems/n-queens/)
+[LeetCode](https://leetcode.com/problems/n-queens/)
 

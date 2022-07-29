@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/super-egg-drop/
 
 # 887. Super Egg Drop
 
-[Leetcode](https://leetcode-cn.com/problems/super-egg-drop/)
+[LeetCode](https://leetcode-cn.com/problems/super-egg-drop/)
 

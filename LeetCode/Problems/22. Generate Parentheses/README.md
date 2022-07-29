@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/generate-parentheses/
 
 # 22. Generate Parentheses
 
-[Leetcode](https://leetcode-cn.com/problems/generate-parentheses/)
+[LeetCode](https://leetcode-cn.com/problems/generate-parentheses/)
 

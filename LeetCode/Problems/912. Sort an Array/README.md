@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/sort-an-array/
 
 # 912. Sort an Array
 
-[Leetcode](https://leetcode.com/problems/sort-an-array/)
+[LeetCode](https://leetcode.com/problems/sort-an-array/)
 
 ## 方法1 快速排序（单边扫描）
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/implement-strstr/
 
 # 28. Implement strStr()
 
-[Leetcode](https://leetcode.com/problems/implement-strstr/)
+[LeetCode](https://leetcode.com/problems/implement-strstr/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/evaluate-division/
 
 # 399. Evaluate Division
 
-[Leetcode](https://leetcode.com/problems/evaluate-division/)
+[LeetCode](https://leetcode.com/problems/evaluate-division/)
 

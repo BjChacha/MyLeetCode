@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/network-delay-time/
 
 # 743. Network Delay Time
 
-[Leetcode](https://leetcode.com/problems/network-delay-time/)
+[LeetCode](https://leetcode.com/problems/network-delay-time/)
 

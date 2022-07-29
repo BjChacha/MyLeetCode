@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/two-sum/
 
 # 1. Two Sum
 
-[Leetcode](https://leetcode.com/problems/two-sum/)
+[LeetCode](https://leetcode.com/problems/two-sum/)
 

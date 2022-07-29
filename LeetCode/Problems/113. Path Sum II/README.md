@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/path-sum-ii/
 
 # 113. Path Sum II
 
-[Leetcode](https://leetcode-cn.com/problems/path-sum-ii/)
+[LeetCode](https://leetcode-cn.com/problems/path-sum-ii/)
 

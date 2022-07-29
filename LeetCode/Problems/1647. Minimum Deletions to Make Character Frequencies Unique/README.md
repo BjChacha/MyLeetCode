@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/minimum-deletions-to-make-character-frequenci
 
 # 1647. Minimum Deletions to Make Character Frequencies Unique
 
-[Leetcode](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+[LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 

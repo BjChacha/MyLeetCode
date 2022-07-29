@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/longest-valid-parentheses/
 
 # 32. Longest Valid Parentheses
 
-[Leetcode](https://leetcode.com/problems/longest-valid-parentheses/)
+[LeetCode](https://leetcode.com/problems/longest-valid-parentheses/)
 

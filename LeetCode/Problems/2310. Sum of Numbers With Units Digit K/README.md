@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/
 
 # 2310. Sum of Numbers With Units Digit K
 
-[Leetcode](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)
+[LeetCode](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)
 

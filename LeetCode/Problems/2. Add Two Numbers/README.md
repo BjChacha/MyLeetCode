@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/add-two-numbers/
 
 # 2. Add Two Numbers
 
-[Leetcode](https://leetcode.com/problems/add-two-numbers/)
+[LeetCode](https://leetcode.com/problems/add-two-numbers/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/combination-sum-iii/
 
 # 216. Combination Sum III
 
-[Leetcode](https://leetcode.com/problems/combination-sum-iii/)
+[LeetCode](https://leetcode.com/problems/combination-sum-iii/)
 

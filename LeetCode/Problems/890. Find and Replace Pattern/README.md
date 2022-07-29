@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/find-and-replace-pattern/
 
 # 890. Find and Replace Pattern
 
-[Leetcode](https://leetcode.com/problems/find-and-replace-pattern/)
+[LeetCode](https://leetcode.com/problems/find-and-replace-pattern/)
 

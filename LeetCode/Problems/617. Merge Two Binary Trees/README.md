@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/merge-two-binary-trees/
 
 # 617. Merge Two Binary Trees
 
-[Leetcode](https://leetcode.com/problems/merge-two-binary-trees/)
+[LeetCode](https://leetcode.com/problems/merge-two-binary-trees/)
 

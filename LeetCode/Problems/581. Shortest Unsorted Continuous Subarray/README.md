@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 # 581. Shortest Unsorted Continuous Subarray
 
-[Leetcode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+[LeetCode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 

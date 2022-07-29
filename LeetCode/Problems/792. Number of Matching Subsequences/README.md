@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/number-of-matching-subsequences/
 
 # 792. Number of Matching Subsequences
 
-[Leetcode](https://leetcode.com/problems/number-of-matching-subsequences/)
+[LeetCode](https://leetcode.com/problems/number-of-matching-subsequences/)
 

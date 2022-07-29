@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/search-in-a-binary-search-tree/
 
 # 700. Search in a Binary Search Tree
 
-[Leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+[LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 

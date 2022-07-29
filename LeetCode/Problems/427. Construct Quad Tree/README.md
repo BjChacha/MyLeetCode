@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/construct-quad-tree/
 
 # 427. Construct Quad Tree
 
-[Leetcode](https://leetcode.com/problems/construct-quad-tree/)
+[LeetCode](https://leetcode.com/problems/construct-quad-tree/)
 

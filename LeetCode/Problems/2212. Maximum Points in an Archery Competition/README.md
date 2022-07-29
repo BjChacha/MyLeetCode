@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/maximum-points-in-an-archery-competition/
 
 # 2212. Maximum Points in an Archery Competition
 
-[Leetcode](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
+[LeetCode](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
 

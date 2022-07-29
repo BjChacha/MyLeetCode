@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/prefix-and-suffix-search/
 
 # 745. Prefix and Suffix Search
 
-[Leetcode](https://leetcode.com/problems/prefix-and-suffix-search/)
+[LeetCode](https://leetcode.com/problems/prefix-and-suffix-search/)
 

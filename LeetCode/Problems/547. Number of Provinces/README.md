@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/number-of-provinces/
 
 # 547. Number of Provinces
 
-[Leetcode](https://leetcode.com/problems/number-of-provinces/)
+[LeetCode](https://leetcode.com/problems/number-of-provinces/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/3sum/
 
 # 15. 3Sum
 
-[Leetcode](https://leetcode.com/problems/3sum/)
+[LeetCode](https://leetcode.com/problems/3sum/)
 

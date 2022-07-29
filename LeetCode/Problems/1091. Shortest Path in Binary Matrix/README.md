@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/shortest-path-in-binary-matrix/
 
 # 1091. Shortest Path in Binary Matrix
 
-[Leetcode](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+[LeetCode](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
 

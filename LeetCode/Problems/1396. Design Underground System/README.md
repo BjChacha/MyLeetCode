@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/design-underground-system/
 
 # 1396. Design Underground System
 
-[Leetcode](https://leetcode.com/problems/design-underground-system/)
+[LeetCode](https://leetcode.com/problems/design-underground-system/)
 

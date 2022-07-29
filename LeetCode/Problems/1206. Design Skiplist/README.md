@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/design-skiplist/
 
 # 1206. Design Skiplist
 
-[Leetcode](https://leetcode.com/problems/design-skiplist/)
+[LeetCode](https://leetcode.com/problems/design-skiplist/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/search-suggestions-system/
 
 # 1268. Search Suggestions System
 
-[Leetcode](https://leetcode.com/problems/search-suggestions-system/)
+[LeetCode](https://leetcode.com/problems/search-suggestions-system/)
 

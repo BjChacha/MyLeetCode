@@ -8,4 +8,4 @@ url: https://leetcode.com/problems/range-sum-query-mutable/
 
 # 31. Range Sum Query - Mutable
 
-[Leetcode](https://leetcode.com/problems/range-sum-query-mutable/)
+[LeetCode](https://leetcode.com/problems/range-sum-query-mutable/)

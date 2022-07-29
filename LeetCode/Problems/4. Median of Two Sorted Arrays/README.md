@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 # 4. Median of Two Sorted Arrays
 
-[Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+[LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 

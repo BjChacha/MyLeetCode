@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/di-string-match/
 
 # 942. DI String Match
 
-[Leetcode](https://leetcode.com/problems/di-string-match/)
+[LeetCode](https://leetcode.com/problems/di-string-match/)
 

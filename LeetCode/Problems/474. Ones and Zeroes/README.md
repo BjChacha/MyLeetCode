@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/ones-and-zeroes/
 
 # 474. Ones and Zeroes
 
-[Leetcode](https://leetcode.com/problems/ones-and-zeroes/)
+[LeetCode](https://leetcode.com/problems/ones-and-zeroes/)
 

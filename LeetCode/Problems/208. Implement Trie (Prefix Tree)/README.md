@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/implement-trie-prefix-tree/
 
 # 208. Implement Trie (Prefix Tree)
 
-[Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/)
+[LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/)
 

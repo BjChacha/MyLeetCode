@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/find-the-duplicate-number/
 
 # 287. Find the Duplicate Number
 
-[Leetcode](https://leetcode.com/problems/find-the-duplicate-number/)
+[LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/critical-connections-in-a-network/
 
 # 1192. Critical Connections in a Network
 
-[Leetcode](https://leetcode.com/problems/critical-connections-in-a-network/)
+[LeetCode](https://leetcode.com/problems/critical-connections-in-a-network/)
 

@@ -8,7 +8,7 @@ url: https://leetcode.com/problems/count-sorted-vowel-strings/
 
 # 1641. Count Sorted Vowel Strings
 
-[Leetcode](https://leetcode.com/problems/count-sorted-vowel-strings/)
+[LeetCode](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
 ### 方法1. 迭代法
 

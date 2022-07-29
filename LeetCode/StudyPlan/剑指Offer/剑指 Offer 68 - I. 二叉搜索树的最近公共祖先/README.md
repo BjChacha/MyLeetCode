@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu
 
 # 剑指 Offer 68 - I. 二叉搜索树的最近公共祖先
 
-[Leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
 

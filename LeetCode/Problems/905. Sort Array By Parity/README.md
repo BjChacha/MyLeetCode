@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/sort-array-by-parity/
 
 # 905. Sort Array By Parity
 
-[Leetcode](https://leetcode.com/problems/sort-array-by-parity/)
+[LeetCode](https://leetcode.com/problems/sort-array-by-parity/)
 

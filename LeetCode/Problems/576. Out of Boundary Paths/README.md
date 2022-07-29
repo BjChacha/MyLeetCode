@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/out-of-boundary-paths/solution/
 
 # 576. Out of Boundary Paths
 
-[Leetcode](https://leetcode.com/problems/out-of-boundary-paths/solution/)
+[LeetCode](https://leetcode.com/problems/out-of-boundary-paths/solution/)
 

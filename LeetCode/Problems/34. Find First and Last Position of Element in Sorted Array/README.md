@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/find-first-and-last-position-of-element-in-so
 
 # 34. Find First and Last Position of Element in Sorted Array
 
-[Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+[LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 

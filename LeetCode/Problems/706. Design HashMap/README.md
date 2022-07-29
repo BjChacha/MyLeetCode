@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/design-hashmap/
 
 # 706. Design HashMap
 
-[Leetcode](https://leetcode.com/problems/design-hashmap/)
+[LeetCode](https://leetcode.com/problems/design-hashmap/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/recover-binary-search-tree/
 
 # 99. Recover Binary Search Tree
 
-[Leetcode](https://leetcode.com/problems/recover-binary-search-tree/)
+[LeetCode](https://leetcode.com/problems/recover-binary-search-tree/)
 

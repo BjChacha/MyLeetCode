@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/path-with-minimum-effort/
 
 # 1631. Path With Minimum Effort
 
-[Leetcode](https://leetcode.com/problems/path-with-minimum-effort/)
+[LeetCode](https://leetcode.com/problems/path-with-minimum-effort/)
 

@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 # 240. Search a 2D Matrix II
 
-[Leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+[LeetCode](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 

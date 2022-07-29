@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/longest-consecutive-sequence/
 
 # 128. Longest Consecutive Sequence
 
-[Leetcode](https://leetcode.com/problems/longest-consecutive-sequence/)
+[LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)
 

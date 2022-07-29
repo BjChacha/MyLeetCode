@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/deepest-leaves-sum/
 
 # 1302. Deepest Leaves Sum
 
-[Leetcode](https://leetcode.com/problems/deepest-leaves-sum/)
+[LeetCode](https://leetcode.com/problems/deepest-leaves-sum/)
 

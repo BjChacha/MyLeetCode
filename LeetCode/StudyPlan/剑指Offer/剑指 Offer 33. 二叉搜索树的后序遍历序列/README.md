@@ -8,7 +8,7 @@ url: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-li
 
 # 剑指 Offer 33. 二叉搜索树的后序遍历序列
 
-[Leetcode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
+[LeetCode](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 
 ### 方法1. 递归
 

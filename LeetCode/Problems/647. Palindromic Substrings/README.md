@@ -8,5 +8,5 @@ url: https://leetcode.com/problems/palindromic-substrings/
 
 # 647. Palindromic Substrings
 
-[Leetcode](https://leetcode.com/problems/palindromic-substrings/)
+[LeetCode](https://leetcode.com/problems/palindromic-substrings/)
 

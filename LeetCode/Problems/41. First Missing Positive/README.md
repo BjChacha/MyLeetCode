@@ -8,5 +8,5 @@ url: https://leetcode-cn.com/problems/first-missing-positive/
 
 # 41. First Missing Positive
 
-[Leetcode](https://leetcode-cn.com/problems/first-missing-positive/)
+[LeetCode](https://leetcode-cn.com/problems/first-missing-positive/)
 
