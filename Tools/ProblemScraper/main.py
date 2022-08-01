@@ -52,7 +52,7 @@ def get_problem_info_AcWing(url):
         data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
         data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
 
-    return data
+        return data
     except:
        print('Get AcWing problem failed.')
 
