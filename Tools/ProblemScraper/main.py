@@ -42,19 +42,19 @@ def get_problem_info_LeetCode(url):
     return content
 
 def get_problem_info_AcWing(url):
-    try:
-        page = requests.get(url)
-        soup = bs(page.text, 'lxml')
-        data = {}
+    # try:
+    page = requests.get(url)
+    soup = bs(page.text, 'lxml')
+    data = {}
 
-        data['id'], data['title'] = soup.find('div', {'class': 'problem-content-title'}).text.strip().split('.')
-        data['title'] = data['title'].strip()
-        data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
-        data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
+    data['id'], data['title'] = soup.find('div', {'class': 'problem-content-title'}).text.strip().split('.')
+    data['title'] = data['title'].strip()
+    data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
+    data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
 
-        return data
-    except:
-        print('Get AcWing problem failed.')
+    return data
+    # except:
+    #     print('Get AcWing problem failed.')
 
 def convertLeetCodeData(data, flag):
     converted = {}

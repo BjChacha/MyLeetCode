@@ -1,9 +1,9 @@
 import os
 from collections import defaultdict
-from utils import read_frontmatter, get_difficult_problems_number
+from .utils import read_frontmatter, get_difficult_problems_number
 
 def main():
-    dir_problem = 'Problems'
+    dir_problem = 'LeetCode/Problems'
     output_filename = "Summary.md"
 
     content = []

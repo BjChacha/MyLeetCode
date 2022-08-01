@@ -4,7 +4,7 @@ sys.path.append('..')
 
 import requests
 from bs4 import BeautifulSoup as bs
-from var import URL_GRAPHQL_LEETCODE, QUERY_DIFFICULTY_NUMBER
+from const import URL_GRAPHQL_LEETCODE, QUERY_DIFFICULTY_NUMBER
 
 def read_frontmatter(filename):
     try:
