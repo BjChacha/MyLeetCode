@@ -136,7 +136,5 @@ def main():
         data = get_problem_info(url, flag)
         build_template(data)
 
-            
-
 if __name__ == '__main__':
     main()
