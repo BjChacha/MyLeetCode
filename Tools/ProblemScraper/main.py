@@ -9,6 +9,13 @@ from bs4 import BeautifulSoup as bs
 import os
 import re
 
+URL_TYPE = [
+    None,
+    'LeetCode',
+    'LeetCodeCN',
+    'AcWing'
+]
+
 def get_problem_info(url, flag):
     res = None
     if flag == 1 or flag == 2:
@@ -42,19 +49,16 @@ def get_problem_info_LeetCode(url):
     return content
 
 def get_problem_info_AcWing(url):
-    try:
-        page = requests.get(url)
-        soup = bs(page.text, 'lxml')
-        data = {}
+    page = requests.get(url)
+    soup = bs(page.text, 'html.parser')
+    data = {}
 
-        data['id'], data['title'] = soup.find('div', {'class': 'problem-content-title'}).text.strip().split('.')
-        data['title'] = data['title'].strip()
-        data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
-        data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
+    data['id'], data['title'] = soup.find('div', {'class': 'problem-content-title'}).text.strip().split('.')
+    data['title'] = data['title'].strip()
+    data['difficulty'] = soup.find('table', {'class': 'table-striped'}).tbody.td.span.text
+    data['tags'] = re.findall(r'keywords = \".*\"', soup.find('table', {'class': 'table-responsive'}).script.text)[0].split('=')[1].strip(' "').split(',')
 
-        return data
-    except:
-       print('Get AcWing problem failed.')
+    return data
 
 def convertLeetCodeData(data, flag):
     converted = {}
@@ -119,21 +123,20 @@ def url_preprocesser(url):
 
 def main():
     while True:
-        try:
-            flag = input("Enter problem type:\n\t[q]: Exit\n\t[1]: LeetCode Problem\n\t[2]: LeetCode-CN 剑指 Offer\n\t[3]: AcWing\n") or '0'
-            if flag == 'q':
-                break
-            flag = int(flag)
-            if flag not in [1, 2, 3]:
-                raise ValueError
-
-            url = input("Enter LeetCode problem url: ")
-            url = url_preprocesser(url)
-            data = get_problem_info(url, flag)
-            build_template(data)
-
-        except ValueError:
+        flag = input("Enter problem type:\n\t[q]: Exit\n\t[1]: LeetCode Problem\n\t[2]: LeetCode-CN 剑指 Offer\n\t[3]: AcWing\n") or '0'
+        if flag == 'q':
+            break
+        flag = int(flag)
+        if flag not in [1, 2, 3]:
             print("Invalid type.")
+            continue
+        
+        url = input(f"Enter {URL_TYPE[flag]} problem url: ")
+        url = url_preprocesser(url)
+        data = get_problem_info(url, flag)
+        build_template(data)
+
+            
 
 if __name__ == '__main__':
     main()
