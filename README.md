@@ -21,5 +21,6 @@ My LeetCode code collection
   - [x] Title with problem no;
   - [x] Sort by problem no;
   - [x] Progress;
-- [ ] Build a roadmap.
-- [ ] Extension for vscode. 
+- [ ] real-time coding mode
+  - [ ] automatically generating template
+  - [ ] submit on cli and feedback on cli
