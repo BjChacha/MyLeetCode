@@ -31,7 +31,7 @@ def get_problem_info_LeetCode(url):
     items = url_leetcode_problem.strip().strip('/').split('/')
     problem_name = items[4]
 
-    url_leetcode_graphql = URL_GRAPHQL_LEETCODECN if '-cn' in url else URL_GRAPHQL_LEETCODE
+    url_leetcode_graphql = URL_GRAPHQL_LEETCODECN if 'cn' in url else URL_GRAPHQL_LEETCODE
     header = HEADER
     q = QUERY_PROBLEM_INFO
 
