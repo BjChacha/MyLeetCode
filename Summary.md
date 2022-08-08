@@ -99,6 +99,7 @@
 - \[1710\]\[Easy\] \- [Maximum Units on a Truck](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1710.%20Maximum%20Units%20on%20a%20Truck)
 - \[1893\]\[Easy\] \- [Check if All the Integers in a Range Are Covered](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
 - \[2212\]\[Medium\] \- [Maximum Points in an Archery Competition](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
+- \[2245\]\[Medium\] \- [Maximum Trailing Zeros in a Cornered Path](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2245.%20Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path)
 - \[2309\]\[Easy\] \- [Greatest English Letter in Upper and Lower Case](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case)
 ### Hash Table
 - \[1\]\[Easy\] \- [Two Sum](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1.%20Two%20Sum)
@@ -215,6 +216,7 @@
 - \[1461\]\[Medium\] \- [Check If a String Contains All Binary Codes of Size K](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K)
 - \[1647\]\[Medium\] \- [Minimum Deletions to Make Character Frequencies Unique](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique)
 - \[1689\]\[Medium\] \- [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
+- \[2311\]\[Medium\] \- [Longest Binary Subsequence Less Than or Equal to K](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2311.%20Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K)
 ### Sliding Window
 - \[3\]\[Medium\] \- [Longest Substring Without Repeating Characters](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 - \[1423\]\[Medium\] \- [Maximum Points You Can Obtain from Cards](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
@@ -279,6 +281,7 @@
 - \[1220\]\[Hard\] \- [Count Vowels Permutation](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1220.%20Count%20Vowels%20Permutation)
 - \[1621\]\[Medium\] \- [Number of Sets of K Non-Overlapping Line Segments](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments)
 - \[1641\]\[Medium\] \- [Count Sorted Vowel Strings](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1641.%20Count%20Sorted%20Vowel%20Strings)
+- \[2311\]\[Medium\] \- [Longest Binary Subsequence Less Than or Equal to K](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2311.%20Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K)
 ### Two Pointers
 - \[11\]\[Medium\] \- [Container With Most Water](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/11.%20Container%20With%20Most%20Water)
 - \[15\]\[Medium\] \- [3Sum](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/15.%203Sum)
@@ -315,6 +318,7 @@
 - \[1647\]\[Medium\] \- [Minimum Deletions to Make Character Frequencies Unique](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique)
 - \[1689\]\[Medium\] \- [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
 - \[1710\]\[Easy\] \- [Maximum Units on a Truck](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1710.%20Maximum%20Units%20on%20a%20Truck)
+- \[2311\]\[Medium\] \- [Longest Binary Subsequence Less Than or Equal to K](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2311.%20Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K)
 ### Sorting
 - \[15\]\[Medium\] \- [3Sum](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/15.%203Sum)
 - \[88\]\[Easy\] \- [Merge Sorted Array](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/88.%20Merge%20Sorted%20Array)
@@ -389,6 +393,7 @@
 - \[1091\]\[Medium\] \- [Shortest Path in Binary Matrix](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1091.%20Shortest%20Path%20in%20Binary%20Matrix)
 - \[1260\]\[Easy\] \- [Shift 2D Grid](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1260.%20Shift%202D%20Grid)
 - \[1631\]\[Medium\] \- [Path With Minimum Effort](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1631.%20Path%20With%20Minimum%20Effort)
+- \[2245\]\[Medium\] \- [Maximum Trailing Zeros in a Cornered Path](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2245.%20Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path)
 ### Simulation
 - \[59\]\[Medium\] \- [Spiral Matrix II](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/59.%20Spiral%20Matrix%20II)
 - \[289\]\[Medium\] \- [Game of Life](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/289.%20Game%20of%20Life)
@@ -407,6 +412,7 @@
 - \[139\]\[Medium\] \- [Word Break](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/139.%20Word%20Break)
 - \[509\]\[Easy\] \- [Fibonacci Number](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/509.%20Fibonacci%20Number)
 - \[1137\]\[Easy\] \- [N-th Tribonacci Number](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1137.%20N-th%20Tribonacci%20Number)
+- \[2311\]\[Medium\] \- [Longest Binary Subsequence Less Than or Equal to K](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2311.%20Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K)
 ### Tree
 - \[99\]\[Medium\] \- [Recover Binary Search Tree](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/99.%20Recover%20Binary%20Search%20Tree)
 - \[101\]\[Easy\] \- [Symmetric Tree](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/101.%20Symmetric%20Tree)
@@ -584,6 +590,7 @@
 - \[1480\]\[Easy\] \- [Running Sum of 1d Array](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1480.%20Running%20Sum%20of%201d%20Array)
 - \[1658\]\[Medium\] \- [Minimum Operations to Reduce X to Zero](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero)
 - \[1893\]\[Easy\] \- [Check if All the Integers in a Range Are Covered](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered)
+- \[2245\]\[Medium\] \- [Maximum Trailing Zeros in a Cornered Path](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2245.%20Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path)
 ### Binary Indexed Tree
 - \[307\]\[Medium\] \- [Range Sum Query - Mutable](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/307.%20Range%20Sum%20Query%20-%20Mutable)
 - \[406\]\[Medium\] \- [Queue Reconstruction by Height](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/406.%20Queue%20Reconstruction%20by%20Height)
@@ -637,6 +644,3 @@
 - \[1584\]\[Medium\] \- [Min Cost to Connect All Points](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/1584.%20Min%20Cost%20to%20Connect%20All%20Points)
 ### Enumeration
 - \[2212\]\[Medium\] \- [Maximum Points in an Archery Competition](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2212.%20Maximum%20Points%20in%20an%20Archery%20Competition)
-### 
-- \[2245\]\[Medium\] \- [Maximum Trailing Zeros in a Cornered Path](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2245.%20Maximum%20Trailing%20Zeros%20in%20a%20Cornered%20Path)
-- \[2311\]\[Medium\] \- [Longest Binary Subsequence Less Than or Equal to K](https://github.com/BjChacha/MyLeetCode/tree/main/LeetCode/Problems/2311.%20Longest%20Binary%20Subsequence%20Less%20Than%20or%20Equal%20to%20K)

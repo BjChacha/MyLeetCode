@@ -2,7 +2,7 @@
 title: Longest Binary Subsequence Less Than or Equal to K
 no: 2311
 difficulty: Medium
-tags: []
+tags: [String, Dynamic Programming, Greedy, Memoization]
 url: https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/
 ---
 
