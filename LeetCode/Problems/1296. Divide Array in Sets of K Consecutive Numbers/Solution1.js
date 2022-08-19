@@ -1,13 +1,14 @@
-var isNStraightHand = function(hand, groupSize) {
-    const n = hand.length;
-    if (n % groupSize) return false;
+// hash table
+var isPossibleDivide = function(nums, k) {
+    const n = nums.length;
+    if (n % k) return false;
     
     const counter = {};
-    for (const num of hand) counter[num] = (counter[num] ?? 0) + 1;
-    hand.sort((a, b) => a - b);
-    for (const num of hand) {
+    for (const num of nums) counter[num] = (counter[num] ?? 0) + 1;
+    nums.sort((a, b) => a - b);
+    for (const num of nums) {
         if (counter[num] === 0) continue;
-        for (let i = 0; i < groupSize; ++i) {
+        for (let i = 0; i < k; ++i) {
             if (!counter[num+i] > 0) return false;
             counter[num+i] --;
         }
